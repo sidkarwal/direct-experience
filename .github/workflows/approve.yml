@@ -38,3 +38,7 @@ jobs:
           git add data/posts.json data/pending.json
           git diff --cached --quiet || git commit -m "${{ github.event.inputs.action }}: ${{ github.event.inputs.post_id }}"
           git push
+
+      - name: Trigger Netlify deploy
+        if: github.event.inputs.action == 'approve'
+        run: curl -s -X POST https://api.netlify.com/build_hooks/6a344ee167d5adf6fa2eefaa
