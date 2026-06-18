@@ -1,0 +1,40 @@
+name: Approve Post
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_id:
+        description: 'Post ID to approve (from pending.json)'
+        required: true
+        type: string
+      action:
+        description: 'Action'
+        required: true
+        type: choice
+        options:
+          - approve
+          - reject
+
+jobs:
+  approve:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Process approval
+        run: node scripts/approve.js "${{ github.event.inputs.post_id }}" "${{ github.event.inputs.action }}"
+
+      - name: Commit
+        run: |
+          git config user.name "direct-experience-bot"
+          git config user.email "bot@directexperience.now"
+          git add data/posts.json data/pending.json
+          git diff --cached --quiet || git commit -m "${{ github.event.inputs.action }}: ${{ github.event.inputs.post_id }}"
+          git push

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Direct Experience — Admin</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #09090a; --surface: #111112; --border: #1c1c1e;
+      --text: #ddd8ce; --muted: #5c5850; --accent: #b8956a;
+      --green: #4a8a4a; --red: #8a3a3a;
+      --sans: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+    }
+    body { background: var(--bg); color: var(--text); font-family: var(--sans); font-size: 14px; padding: 40px 24px; }
+    h1 { font-size: 16px; font-weight: 500; color: #fff; letter-spacing: 0.2em; text-transform: uppercase; margin-bottom: 32px; }
+
+    /* LOGIN */
+    #login { max-width: 360px; }
+    #login input { width: 100%; background: var(--surface); border: 1px solid var(--border); color: var(--text); padding: 12px 16px; font-size: 14px; margin-bottom: 10px; outline: none; }
+    #login button { background: var(--accent); border: none; color: #09090a; padding: 12px 24px; font-size: 13px; cursor: pointer; width: 100%; }
+
+    /* PENDING */
+    #admin { display: none; max-width: 720px; }
+    .pending-count { color: var(--muted); font-size: 12px; margin-bottom: 24px; letter-spacing: 0.06em; }
+    .pending-post { background: var(--surface); border: 1px solid var(--border); padding: 24px; margin-bottom: 12px; }
+    .pending-headline { font-size: 16px; color: #fff; margin-bottom: 8px; line-height: 1.4; }
+    .pending-url { font-size: 11px; color: var(--accent); margin-bottom: 12px; word-break: break-all; }
+    .pending-url a { color: var(--accent); }
+    .pending-desc { font-size: 13px; color: var(--muted); line-height: 1.65; margin-bottom: 16px; }
+    .pending-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+    .tag { font-size: 11px; color: var(--muted); background: var(--bg); border: 1px solid var(--border); padding: 2px 8px; border-radius: 100px; }
+    .pending-actions { display: flex; gap: 8px; }
+    .btn-approve { background: var(--green); border: none; color: #fff; padding: 10px 20px; font-size: 12px; cursor: pointer; letter-spacing: 0.06em; }
+    .btn-reject { background: transparent; border: 1px solid var(--border); color: var(--muted); padding: 10px 20px; font-size: 12px; cursor: pointer; }
+    .btn-approve:hover { opacity: 0.85; }
+    .btn-reject:hover { border-color: var(--red); color: #c47a7a; }
+    .empty { color: var(--muted); padding: 40px 0; text-align: center; }
+    .status { font-size: 12px; color: var(--muted); margin-top: 8px; }
+  </style>
+</head>
+<body>
+
+  <h1>Direct Experience / Admin</h1>
+
+  <div id="login">
+    <input type="password" id="pw" placeholder="Password" autocomplete="current-password">
+    <button onclick="login()">Enter</button>
+    <p class="status" id="login-status"></p>
+  </div>
+
+  <div id="admin">
+    <p class="pending-count" id="pending-count"></p>
+    <div id="pending-list"></div>
+  </div>
+
+  <script>
+    let adminPassword = '';
+
+    document.getElementById('pw').addEventListener('keydown', e => {
+      if (e.key === 'Enter') login();
+    });
+
+    async function login() {
+      const pw = document.getElementById('pw').value.trim();
+      if (!pw) return;
+      adminPassword = pw;
+
+      const res = await fetch('/.netlify/functions/pending', {
+        headers: { 'x-admin-password': pw }
+      });
+
+      if (res.status === 401) {
+        document.getElementById('login-status').textContent = 'Wrong password.';
+        return;
+      }
+
+      const posts = await res.json();
+      document.getElementById('login').style.display = 'none';
+      document.getElementById('admin').style.display = 'block';
+      renderPending(posts);
+    }
+
+    function renderPending(posts) {
+      const count = document.getElementById('pending-count');
+      const list = document.getElementById('pending-list');
+
+      if (!posts || posts.length === 0) {
+        count.textContent = 'No pending posts.';
+        list.innerHTML = '<p class="empty">All clear. Check back after the next discovery run.</p>';
+        return;
+      }
+
+      count.textContent = `${posts.length} post${posts.length !== 1 ? 's' : ''} waiting for approval`;
+
+      list.innerHTML = posts.map(p => `
+        <div class="pending-post" id="post-${p.id}">
+          <p class="pending-headline">${escHtml(p.headline)}</p>
+          <p class="pending-url"><a href="${escHtml(p.url)}" target="_blank">${escHtml(p.url)}</a></p>
+          <p class="pending-desc">${escHtml(p.description)}</p>
+          ${p.tags && p.tags.length ? `<div class="pending-tags">${p.tags.map(t => `<span class="tag">${escHtml(t)}</span>`).join('')}</div>` : ''}
+          <div class="pending-actions">
+            <button class="btn-approve" onclick="decide('${p.id}', 'approve')">Approve</button>
+            <button class="btn-reject" onclick="decide('${p.id}', 'reject')">Reject</button>
+          </div>
+          <p class="status" id="status-${p.id}"></p>
+        </div>
+      `).join('');
+    }
+
+    async function decide(id, action) {
+      const statusEl = document.getElementById(`status-${id}`);
+      statusEl.textContent = action === 'approve' ? 'Approving...' : 'Rejecting...';
+
+      const res = await fetch('/.netlify/functions/approve', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'x-admin-password': adminPassword,
+        },
+        body: JSON.stringify({ id, action }),
+      });
+
+      if (res.ok) {
+        const el = document.getElementById(`post-${id}`);
+        el.style.opacity = '0.4';
+        el.style.pointerEvents = 'none';
+        statusEl.textContent = action === 'approve' ? 'Approved — live.' : 'Rejected.';
+      } else {
+        statusEl.textContent = 'Something went wrong.';
+      }
+    }
+
+    function escHtml(str) {
+      return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+  </script>
+
+</body>
+</html>

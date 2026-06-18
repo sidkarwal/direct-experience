@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "updated": "2026-06-19",
+  "search_sources": [
+    "reddit.com/r/streamentry",
+    "reddit.com/r/awakened",
+    "reddit.com/r/kundalini",
+    "reddit.com/r/NDE",
+    "reddit.com/r/dzogchen",
+    "reddit.com/r/SpiritualAwakening",
+    "dharmaoverground.org",
+    "twitter.com",
+    "substack.com"
+  ],
+  "search_queries": [
+    "first person account stream entry cessation meditation",
+    "kundalini awakening precise description",
+    "dark night of the soul personal account",
+    "ego dissolution experience description",
+    "nondual awareness recognition account",
+    "near death experience precise account",
+    "spontaneous mystical experience description",
+    "jhana meditation experience account",
+    "psychedelic experience mystical precise",
+    "spiritual awakening account first person"
+  ],
+  "quality_signals": {
+    "high": ["precise", "first-person", "no-recruiting", "cross-tradition"],
+    "avoid": ["vague", "tradition-recruiting", "celebrity", "self-help"]
+  },
+  "learning_history": []
+}
