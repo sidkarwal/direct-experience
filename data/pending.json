@@ -86,5 +86,95 @@
     "date_found": "2026-06-19T10:12:06.122Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.17272v1",
+    "url": "https://arxiv.org/abs/2606.17272v1",
+    "headline": "Pre-nova Observations of T CrB: A view from the CHARA Array",
+    "description": "T CrB is a symbiotic recurrent nova consisting of a red giant and white dwarf with recent eruptions in 1866 and 1946 and an anticipated eruption in the mid 2020s. We report CHARA Array observations obtained with MIRC-X (H -band) and MYSTIC (K-band) in 2022-2025. We fit limb darkened disk models cons...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-21T09:35:13.286Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.16319v1",
+    "url": "https://arxiv.org/abs/2606.16319v1",
+    "headline": "Architectural Wisdom: A Framework for Governing Optimization in AI Systems",
+    "description": "Modern AI systems exhibit structural failures that capability scaling alone does not reliably fix: they optimize under-specified objectives with no architectural mechanism to question whether the objective should be optimized at all. Engagement maximization can amplify harmful pathways; tool-using a...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-21T09:35:13.286Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.15348v1",
+    "url": "https://arxiv.org/abs/2606.15348v1",
+    "headline": "Intrinsic Computational Functionalism and Simulated Consciousness",
+    "description": "A common objection to artificial or simulated consciousness is that a simulated brain is no more conscious than simulated water is wet. We address this from the perspective of Intrinsic Computational Functionalism (ICF): if consciousness is computationally constituted, it depends not on externally i...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-21T09:35:13.287Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.12569v1",
+    "url": "https://arxiv.org/abs/2606.12569v1",
+    "headline": "EDEN: A Large-Scale Corpus of Clinical Notes for Italian",
+    "description": "We present EDEN (Emergency Department Electronic Notes), a new and unique large-scale corpus of clinical notes produced in Emergency Departments of Italian hospitals. The corpus, in its current version, is composed of approximately 4 million clinical notes fully anonymized, covering diverse phases o...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-21T09:35:13.287Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.10413v1",
+    "url": "https://arxiv.org/abs/2606.10413v1",
+    "headline": "Soul Computing: A Theoretical Framework and Technical Architecture for Intelligent Agents with Independent Consciousness",
+    "description": "Breakthroughs in large language models and multimodal generation technologies have propelled the digital reconstruction of human mental traits, emotional patterns, and long-term memory from science fiction toward engineering practice. Yet current research and industry practices at the intersection o...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-21T09:35:13.287Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
