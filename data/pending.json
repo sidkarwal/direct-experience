@@ -176,5 +176,59 @@
     "date_found": "2026-06-21T09:35:13.287Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.20560v1",
+    "url": "https://arxiv.org/abs/2606.20560v1",
+    "headline": "How Transparent is DiffusionGemma?",
+    "description": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less t...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-22T11:34:15.726Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.20559v1",
+    "url": "https://arxiv.org/abs/2606.20559v1",
+    "headline": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+    "description": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human action. We argue that a truly expressive egocentric representation must subsume complementary knowledge ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-22T11:34:15.726Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.20556v1",
+    "url": "https://arxiv.org/abs/2606.20556v1",
+    "headline": "Thinking in Boxes: 3D Editing in Real Images Made Easy",
+    "description": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- particularly under large object motions and camera changes. Prior work has used 3D primitives such as boxes, but only as loose conditioning signals indicating approximate object locat...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-22T11:34:15.727Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
