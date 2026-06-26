@@ -427,5 +427,94 @@
     "date_found": "2026-06-25T08:46:36.358Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.27377v1",
+    "url": "https://arxiv.org/abs/2606.27377v1",
+    "headline": "DanceOPD: On-Policy Generative Field Distillation",
+    "description": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally aligned and often conflict. For instance, editing tends to degrade T2I performance, while global and lo...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "jhana",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-26T08:49:44.568Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.27371v1",
+    "url": "https://arxiv.org/abs/2606.27371v1",
+    "headline": "Don't Settle at the Mode! Mitigating Diversity Collapse in Pretrained Flow Models via Feature Self-Guidance",
+    "description": "State-of-the-art flow models generate stunning images from text or image prompts. However, they suffer from diversity collapse when generating multiple samples under the same conditioning. Existing methods address this issue via either latent guidance, which has limited effectiveness, or sample sele...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-26T08:49:44.569Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.27363v1",
+    "url": "https://arxiv.org/abs/2606.27363v1",
+    "headline": "The Effect of Topological Defects and Magnetic Flux on Fully-Heavy Tetraquarks and Mass Spectra of Heavy Quarkonia Using the Analytical Exact Iteration Method",
+    "description": "Investigating the non-perturbative behavior of QCD and the dynamics of strong interaction is crucial for the study of heavy quarkonia and the understanding of exotic fully-heavy tetraquarks. In this work, using the analytical exact iteration method (AEIM), the analytical eigenvalue solutions of the ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-26T08:49:44.569Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.27361v1",
+    "url": "https://arxiv.org/abs/2606.27361v1",
+    "headline": "Autoregressive Boltzmann Generators",
+    "description": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allow rapid generation of uncorrelated equilibrium samples by combining a generative model with exact li...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-26T08:49:44.569Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.27358v1",
+    "url": "https://arxiv.org/abs/2606.27358v1",
+    "headline": "Cultivating logical catalysts for fault-tolerant dyadic phase rotations",
+    "description": "We introduce a surface-code cultivation protocol for reusable logical catalyst states that implement exact fine dyadic phase gates $Z^{2^{-b}}$ by phase kickback. The catalyst is an eigenstate of a high-period Clifford circuit $U$, with a direct construction supported on $O(2^b)$ logical qubits. Onc...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-26T08:49:44.569Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
