@@ -516,5 +516,58 @@
     "date_found": "2026-06-26T08:49:44.569Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.27374v1",
+    "url": "https://arxiv.org/abs/2606.27374v1",
+    "headline": "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
+    "description": "Going beyond predicting robot actions, World Action Models (WAMs) can also generate future visual observations. We build on this generative capability to propose Recurrent Generative Replay (REGEN), a continual imitation learning framework that synthesizes pseudo-replay trajectories, enabling a robo...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-27T08:25:39.794Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.27373v1",
+    "url": "https://arxiv.org/abs/2606.27373v1",
+    "headline": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models",
+    "description": "Recently, self-evolving large multimodal models (LMMs) have received attention for improving visual reasoning in a purely unsupervised setting. However, multi-role self-play and self-consistency reward schemes in existing self-evolving LMMs optimize answer agreement without ensuring the decoder atte...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-27T08:25:39.795Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.27370v1",
+    "url": "https://arxiv.org/abs/2606.27370v1",
+    "headline": "Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem",
+    "description": "In a Lorentz symmetric non-Hermitian (NH) Dirac theory, containing the canonical relativistic Hamiltonian accompanied by a masslike anti-Hermitian Dirac operator, when the associated NH parameter becomes spatially modulated it couples massless Dirac fermions as NH gauge fields. With specific choices...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-27T08:25:39.795Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
