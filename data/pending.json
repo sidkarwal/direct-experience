@@ -569,5 +569,23 @@
     "date_found": "2026-06-27T08:25:39.795Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.26143v1",
+    "url": "https://arxiv.org/abs/2606.26143v1",
+    "headline": "Gender expression appraisals in introductory physics courses: A cross-institutional replication",
+    "description": "Quantitative studies of gender in physics education have often used categorical gender identity measures, which are valuable for documenting broad inequities across gender groups but less suited for capturing variation within groups or for examining how students perceive and express their gender in ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-29T10:21:17.175Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
