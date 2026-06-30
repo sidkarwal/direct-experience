@@ -587,5 +587,93 @@
     "date_found": "2026-06-29T10:21:17.175Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.30644v1",
+    "url": "https://arxiv.org/abs/2606.30644v1",
+    "headline": "Testing the prevalence of hydrogen-silicate miscibility in young sub-Neptunes",
+    "description": "Hydrogen-silicate miscibility can significantly alter the interior structure and thermal evolution of sub-Neptunes. We consider the interplay between this miscibility and stellar-driven atmospheric escape. We find that, for the first $\\sim 100$ Myrs, sub-Neptunes store most of their hydrogen content...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-30T08:55:39.838Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.30637v1",
+    "url": "https://arxiv.org/abs/2606.30637v1",
+    "headline": "Lagrangian correspondences of nonabelian Hodge type and shifted twistor structures",
+    "description": "Classical nonabelian Hodge theory identifies Dolbeault and de Rham moduli spaces by providing a real-analytic isomorphism. In this paper, motivated by the Kapustin--Witten theory, we study this correspondence in the more general framework of perfect complexes on proper varieties, paying special atte...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-30T08:55:39.838Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.30632v1",
+    "url": "https://arxiv.org/abs/2606.30632v1",
+    "headline": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
+    "description": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance grounding}$: select an open-category object to act as a tool and...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-30T08:55:39.838Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.30628v1",
+    "url": "https://arxiv.org/abs/2606.30628v1",
+    "headline": "Cavity-mediated probabilistic magic $T$-gate injection",
+    "description": "Non-Clifford gates are a necessary resource for universal quantum computation, yet their fault-tolerant implementation typically relies on magic-state distillation, which incurs significant overhead in qubit count and circuit depth. In this work, we propose a probabilistic cavity-based magic-state i...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-30T08:55:39.838Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2606.30623v1",
+    "url": "https://arxiv.org/abs/2606.30623v1",
+    "headline": "When and Which Sensor to Observe? Timely Tracking of a Joint Markov Source",
+    "description": "We investigate the problem of remote estimation (at a monitor) of a discrete-time joint Markov process with individual components which can be observed with dedicated sensors. At a given time slot, the monitor has the option of staying idle or sending a pull request to one of the sensors to obtain a...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-06-30T08:55:39.838Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
