@@ -765,5 +765,92 @@
     "date_found": "2026-07-01T09:28:52.428Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.01226v1",
+    "url": "https://arxiv.org/abs/2607.01226v1",
+    "headline": "Intertwined Constraints in Extended Cosmologies: Dark Energy, Curvature, Neutrinos, and Inflation",
+    "description": "We present a systematic reassessment of cosmological constraints beyond $Λ$CDM by progressively relaxing the assumptions underlying Dark Energy (DE), Curvature, Neutrinos, and Inflation. Using the latest CMB data together with DESI BAO and different SN catalogues, we show that the preference for dyn...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-02T08:41:20.800Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.01220v1",
+    "url": "https://arxiv.org/abs/2607.01220v1",
+    "headline": "TIME Commissioning Observations: II. On-sky Characterization and the 2D Map Data Processing Pipeline",
+    "description": "The Tomographic Ionized-carbon Mapping Experiment (TIME) is a line intensity mapping (LIM) instrument that is designed to observe the power spectrum of the [CII] $158$~$μ$m emission line during the Epoch of Reionization. TIME completed a commissioning run in 2022 at the Arizona Radio Observatory onb...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-02T08:41:20.800Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.01218v1",
+    "url": "https://arxiv.org/abs/2607.01218v1",
+    "headline": "The State-Prediction Separation Hypothesis",
+    "description": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}: disentangling the two roles yields better language modeling performance. We design a Transformer va...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-02T08:41:20.800Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.01217v1",
+    "url": "https://arxiv.org/abs/2607.01217v1",
+    "headline": "Diverse efficiency of observable optimization for four-level quantum systems with higher-order traps",
+    "description": "In this work, we perform an analytical and numerical analysis of quantum landscapes for controlling special four-level quantum systems for which we prove that the null control is a five-order trap: a $V-V$ system and an anharmonic system. As a control goal, an observable optimization is considered. ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-02T08:41:20.800Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.01201v1",
+    "url": "https://arxiv.org/abs/2607.01201v1",
+    "headline": "Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation",
+    "description": "The four-channel teleoperation architecture is a well-established framework for achieving transparency in bilateral systems. However, its performance in human-scale teleoperation is limited by high inertia, modeling challenges, and reliance on noisy and costly force/torque sensors. This paper introd...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-02T08:41:20.800Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
