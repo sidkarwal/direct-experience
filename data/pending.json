@@ -870,5 +870,94 @@
     "date_found": "2026-07-03T08:48:18.656Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.02516v1",
+    "url": "https://arxiv.org/abs/2607.02516v1",
+    "headline": "Alignment Is All You Need For X-to-4D Generation",
+    "description": "Generative diffusion models excel at synthesizing high-quality images, videos, and 3D content under multimodal control. However, arbitrary user-defined modality-to-4D (X-to-4D) generation remains challenging due to the high cost of constructing diverse datasets and the limited scalability of existin...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-04T08:23:17.184Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.02515v1",
+    "url": "https://arxiv.org/abs/2607.02515v1",
+    "headline": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+    "description": "State-of-the-art single-image 3D reconstruction methods often rely on complex hybrid architectures and loss functions, or compress geometry into latent spaces in order to leverage pre-trained latent diffusion models. In this work, we show that such architectural overhead and intricate loss formulati...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-04T08:23:17.184Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.02514v1",
+    "url": "https://arxiv.org/abs/2607.02514v1",
+    "headline": "Distributed Attacks in Persistent-State AI Control",
+    "description": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR wi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-04T08:23:17.185Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.02513v1",
+    "url": "https://arxiv.org/abs/2607.02513v1",
+    "headline": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+    "description": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm th...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-04T08:23:17.185Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.02505v1",
+    "url": "https://arxiv.org/abs/2607.02505v1",
+    "headline": "A critical look at low-scale cosmological phase transitions in the PTA era",
+    "description": "Motivated by the recent evidence for a stochastic gravitational-wave (GW) background reported by pulsar timing array (PTA) collaborations, we perform a precision study of low-scale phase transitions in a dark Abelian Higgs sector, a minimal gauge theory of spontaneous symmetry breaking relevant for ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "spontaneous",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-04T08:23:17.185Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
