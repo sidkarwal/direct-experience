@@ -1029,5 +1029,23 @@
     "date_found": "2026-07-05T08:39:55.175Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.02570v1",
+    "url": "https://arxiv.org/abs/2607.02570v1",
+    "headline": "DOSE-I: A Multimodal Biosignal Dataset of Procedural Sedation for Endoscopy -- Technical Report",
+    "description": "In this document, we describe characteristics and technical details of the multimodal biosignal dataset DOSE-I of procedural sedation for endoscopy published on zenodo. The DOSE-I dataset includes 78.5 hours of recording in 171 records ranging from 6.7 to 70.8 minutes (mean: 27.5, SD: 11.6) of 281 e...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-07T09:22:58.537Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
