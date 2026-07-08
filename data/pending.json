@@ -1047,5 +1047,94 @@
     "date_found": "2026-07-07T09:22:58.537Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.06565v1",
+    "url": "https://arxiv.org/abs/2607.06565v1",
+    "headline": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+    "description": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D tokens into a flat sequence and rely on self-attention, collapsing coarse structural ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-08T08:07:22.399Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.06561v1",
+    "url": "https://arxiv.org/abs/2607.06561v1",
+    "headline": "2D Transport in an in-plane magnetic field",
+    "description": "A parallel in-plane magnetic field could, in principle, distinguish between two competing physical scenarios for the experimentally observed density-tuned 2D metal-insulator transition (where decreasing the carrier density leads to a crossover from an effective metal to an effective insulator): Wign...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-08T08:07:22.400Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.06559v1",
+    "url": "https://arxiv.org/abs/2607.06559v1",
+    "headline": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+    "description": "Robotic manipulation in the open world requires not only recognizing what a scene looks like, but also anticipating how its 3D structure moves under interaction. We argue that synchronized RGB, depth, and optical flow, namely RGB-DF, provide a physically grounded representation that captures the und...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-08T08:07:22.400Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.06558v1",
+    "url": "https://arxiv.org/abs/2607.06558v1",
+    "headline": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+    "description": "Scaling robot learning requires massive, diverse trajectory data, yet collection is currently bottlenecked by physical teleoperation, where every demonstration binds operator time to specific hardware and workspaces. We introduce digital teleoperation, a paradigm that decouples data collection from ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-08T08:07:22.400Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.06557v1",
+    "url": "https://arxiv.org/abs/2607.06557v1",
+    "headline": "Quantum Channel Polynomial Processing",
+    "description": "We introduce a quantum algorithmic framework based on probabilistic mixtures of unitary channels that, similar to the framework of quantum singular value transformations, enables the application of arbitrary polynomials of hermitian operators onto arbitrary initial states. We show that our framework...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-08T08:07:22.400Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
