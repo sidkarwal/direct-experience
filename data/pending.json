@@ -1136,5 +1136,93 @@
     "date_found": "2026-07-08T08:07:22.400Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.07709v1",
+    "url": "https://arxiv.org/abs/2607.07709v1",
+    "headline": "The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies",
+    "description": "To best reproduce observed multiply-lensed lensed images, lens models usually incorporate shear attributed to objects unrelated to the lensing galaxy (i.e., external shear): whether it be neighbouring galaxies not explicitly included in the lens model or other cosmic structures along the sightline. ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-09T09:20:39.652Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.07700v1",
+    "url": "https://arxiv.org/abs/2607.07700v1",
+    "headline": "Coherent Signal Detection with Pruning -- I. Finding Short-Period Binary Pulsars in Circular Orbits",
+    "description": "Detecting pulsars in short-period binary systems, which are unparalleled laboratories for fundamental physics and tests of general relativity, is a prime objective of radio astronomy. Their rapid orbital motion, however, presents a formidable computational challenge. Conventional searches are theref...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-09T09:20:39.653Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.07689v1",
+    "url": "https://arxiv.org/abs/2607.07689v1",
+    "headline": "Agent Delivery Engineering Predictive Reliability Framework",
+    "description": "Long-horizon LLM multi-agent systems face reliability risks invisible to infrastructure monitoring. We propose the ADE Predictive Reliability Framework (ADE-PRF), enabling proactive health trajectory prediction from passive degradation detection. ADE-PRF aggregates 20 heterogeneous signals across fi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-09T09:20:39.653Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.07687v1",
+    "url": "https://arxiv.org/abs/2607.07687v1",
+    "headline": "Scaling WaterLily.jl with MPI and an improved geometric multigrid solver",
+    "description": "We present recent performance-oriented developments in WaterLily.jl, a scale-resolving incompressible flow solver written in pure Julia that runs seamlessly on CPUs and GPUs of any vendor. Supported by the newly added MPI-based parallelism, strong-scalability tests display a near-ideal linear trend,...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-09T09:20:39.653Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.07686v1",
+    "url": "https://arxiv.org/abs/2607.07686v1",
+    "headline": "When one sign is not enough: 2+1 circular motion Unruh effect at low energies",
+    "description": "We address the circular motion Unruh effect in 2+1 spacetime dimensions, as probed by a pointlike Unruh-DeWitt detector coupled to a massless scalar field. The effective temperature due to circular acceleration, operationally defined in terms of the detector's excitation and de-excitation probabilit...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-09T09:20:39.653Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
