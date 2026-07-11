@@ -1312,5 +1312,23 @@
     "date_found": "2026-07-10T09:17:57.156Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.06101v1",
+    "url": "https://arxiv.org/abs/2607.06101v1",
+    "headline": "Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development",
+    "description": "AI coding agents are rapidly reshaping how software is built, with developers increasingly delegating substantial coding tasks to autonomous agents in pursuit of higher productivity. While these gains are real, they come at the cost of incidental learning. Developers historically acquired informal k...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-11T07:39:29.855Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
