@@ -1330,5 +1330,60 @@
     "date_found": "2026-07-11T07:39:29.855Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.08772v1",
+    "url": "https://arxiv.org/abs/2607.08772v1",
+    "headline": "Wat3R: Underwater 3D Geometry Learning without Annotations",
+    "description": "Estimating 3D geometry in underwater environments presents unique challenges due to light attenuation, scattering, and the absence of large-scale, high-quality 3D annotations. Pioneering methods rely on massive dense annotations that are impractical in underwater settings. In this paper, we propose ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-12T07:58:42.213Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.08768v1",
+    "url": "https://arxiv.org/abs/2607.08768v1",
+    "headline": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+    "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-12T07:58:42.213Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.08767v1",
+    "url": "https://arxiv.org/abs/2607.08767v1",
+    "headline": "Plaquette: A hardware-aware design platform for fault-tolerant quantum computers",
+    "description": "Hardware teams building fault-tolerant quantum computers (FTQCs) must decide which imperfections to suppress, and that decision requires the logical performance of the architecture under the device's actual noise. Hardware noise often departs from the stochastic Pauli models used by scalable stabili...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-12T07:58:42.213Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
