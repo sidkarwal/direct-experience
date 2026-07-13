@@ -1385,5 +1385,94 @@
     "date_found": "2026-07-12T07:58:42.213Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.09661v1",
+    "url": "https://arxiv.org/abs/2607.09661v1",
+    "headline": "PanoWorld: Real-World Panoramic Generation",
+    "description": "In this work, we aim to address the challenge of long-range memory in panoramic world models by exploiting the rotation-equivariant property of omnidirectional representations, where rotation can be treated as an implicit geometric transformation.Building on this insight, we propose PanoWorld, which...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-13T08:47:18.443Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.09656v1",
+    "url": "https://arxiv.org/abs/2607.09656v1",
+    "headline": "HD 148797: A bright F-type star with two moderate-period low-density sub-Jovian planets. Compact multi-planet architectures are common in the Neptunian savanna",
+    "description": "We report the confirmation and characterisation of two moderate-period sub-Jovian planets transiting the bright F-type star HD 148797 (G=9.4 mag, Teff=6441 +/- 51 K). Using photometric time series from TESS and CHEOPS, we determine orbital periods of 42.1 d for HD 148797 b and 68.2 d for HD 148797 c...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "cross-tradition"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-13T08:47:18.444Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.09650v1",
+    "url": "https://arxiv.org/abs/2607.09650v1",
+    "headline": "Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks",
+    "description": "In many real-world systems, including articulated robots and biomechanical models, rotations are defined in joint space and naturally parameterized by Euler angles with bounded ranges. Yet regressing Euler angles remains challenging, as their discontinuities and singularities often destabilize train...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-13T08:47:18.444Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.09648v1",
+    "url": "https://arxiv.org/abs/2607.09648v1",
+    "headline": "B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations",
+    "description": "In this work, we present B-spline Policy (BSP), an action representation designed for accelerating robot manipulation policies. Rather than predicting discrete-time action chunks, BSP parameterizes actions as continuous B-spline curves defined by a set of knots and control points. This representatio...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-13T08:47:18.444Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.09634v1",
+    "url": "https://arxiv.org/abs/2607.09634v1",
+    "headline": "Beyond the Cube: Overlapping Grid Methods for Debris Collision Risk Assessment",
+    "description": "The cube method reduces conjunction screening in orbital debris simulations to $\\mathcal{O}(N)$ cost by evaluating only object pairs sharing the same grid cell at each snapshot, but systematically assigns zero collision probability to pairs separated by a cell boundary at that epoch, a failure known...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-13T08:47:18.444Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
