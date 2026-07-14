@@ -1474,5 +1474,94 @@
     "date_found": "2026-07-13T08:47:18.444Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.11886v1",
+    "url": "https://arxiv.org/abs/2607.11886v1",
+    "headline": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
+    "description": "In this paper, we propose SpectraReward, a training-free reward function that turns pretrained MLLMs into off-the-shelf reward models for image-generation reinforcement learning. Instead of asking the MLLM to judge a generated image or answer decomposed verification questions, SpectraReward measures...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-14T07:46:25.537Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.11885v1",
+    "url": "https://arxiv.org/abs/2607.11885v1",
+    "headline": "Latent-Identity Tuning in Text-to-Image Personalization Models",
+    "description": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on general-purpose text-to-image models, however, often lack the precision required for fine-grained fa...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-14T07:46:25.538Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.11878v1",
+    "url": "https://arxiv.org/abs/2607.11878v1",
+    "headline": "Optimal Parameter-Free First-Order Methods for Convex Optimization with Unknown Growth and Smoothness",
+    "description": "We study deterministic first-order minimization of a convex function without prior knowledge of the objective's growth, smoothness regime, or associated parameters. We develop anytime, parameter-free bundle-level methods that adapt simultaneously to these unknown properties and attain best-known ora...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-14T07:46:25.538Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.11874v1",
+    "url": "https://arxiv.org/abs/2607.11874v1",
+    "headline": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
+    "description": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track them. But how does this recipe transfer to dexterous manipulation? The answer is not obvious, as manipu...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-14T07:46:25.538Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.11849v1",
+    "url": "https://arxiv.org/abs/2607.11849v1",
+    "headline": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
+    "description": "Large language models (LLMs) have achieved remarkable performance on high-school and olympiad-style mathematics, yet their capabilities on advanced mathematics remain poorly understood. Existing benchmarks, however, fall short in both scope and evaluation granularity: they provide limited disciplina...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-14T07:46:25.538Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
