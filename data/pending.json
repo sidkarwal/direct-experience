@@ -1563,5 +1563,59 @@
     "date_found": "2026-07-14T07:46:25.538Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.11535v1",
+    "url": "https://arxiv.org/abs/2607.11535v1",
+    "headline": "Introducing entropy measures to PK/PD models in propofol anesthesia as a replacement of BIS",
+    "description": "Depth of anesthesia is a complex but important vital state to analyze during a surgery or other procedure. One parameter to estimate this state is the bispectral index (BIS), a value ranging from 0 to 100 with a target of 40 to 60 for a stable state during surgery, which is based on the electroencep...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-15T07:49:42.133Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.10598v1",
+    "url": "https://arxiv.org/abs/2607.10598v1",
+    "headline": "Anomalous Frame Detection by Grouping Frame Similarities between Two Videos Computed by Vision-Language Model to Extract Expert Workers' Unique Actions",
+    "description": "Maintenance of critical infrastructures, such as railways and power plants, is essential for operational safety and reliability. However, the declining number of skilled maintenance workers poses a serious challenge to sustaining these operations, highlighting the need to effectively transfer expert...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-15T07:49:42.133Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.09819v1",
+    "url": "https://arxiv.org/abs/2607.09819v1",
+    "headline": "The New Tractatus Program: Quantum Mechanics, Anti-Totalitarian Ontology, and Consciousness",
+    "description": "This article reads two recent tractatus-style texts - Niccolo Covoni and Carlo Rovelli's Tractatus Quanticus (arXiv:2512.06034) and Mikolaj Sienicki and Krzysztof Sienicki's Tractatus de Conscientia (arXiv:2607.05459) - together with Jenann Ismael and Huw Price's interpretive introduction Against To...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-15T07:49:42.133Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
