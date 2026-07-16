@@ -1617,5 +1617,92 @@
     "date_found": "2026-07-15T07:49:42.133Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.14091v1",
+    "url": "https://arxiv.org/abs/2607.14091v1",
+    "headline": "Pair-Partition Constructions for CPM-Based Quantum LDPC Codes",
+    "description": "We construct binary Calderbank--Shor--Steane (CSS) quantum low-density parity-check (LDPC) codes from circulant permutation matrices (CPMs). The construction is parameterized by column weight J, row weight L, and prime lift size P. A J x J array of pair partitions imposes linear paired-difference eq...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-16T07:54:42.091Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.14090v1",
+    "url": "https://arxiv.org/abs/2607.14090v1",
+    "headline": "Cold Stream Penetration of Virial Shocks: Fragmentation, Coagulation, and Disruption in the Hot Circumgalactic Medium",
+    "description": "Cold streams penetrating virial shocks of massive halos along cosmic web filaments are expected to fuel galaxy growth at high redshift, yet the physical processes governing their penetration remain uncertain. We investigate cylindrical cold streams penetrating a hot circumgalactic medium (CGM) using...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-16T07:54:42.091Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.14088v1",
+    "url": "https://arxiv.org/abs/2607.14088v1",
+    "headline": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+    "description": "Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video Foundatio...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-16T07:54:42.092Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.14086v1",
+    "url": "https://arxiv.org/abs/2607.14086v1",
+    "headline": "Leveraging unlabelled data for generalizable neural population decoding",
+    "description": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike level facilitates multi-session pretraining and delivers state-of-the-art decoding performance. However,...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-16T07:54:42.092Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.14079v1",
+    "url": "https://arxiv.org/abs/2607.14079v1",
+    "headline": "Entropy release from Minkowski breaking in regular Schwarzschild black holes",
+    "description": "The classical formation of a Schwarzschild black hole from a regular, non-singular configuration has recently been shown to be impossible within general relativity: the geometry inevitably develops a discontinuity at the origin, a phenomenon termed Minkowski breaking by Ovalle, Casadio, and Kamenshc...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-16T07:54:42.092Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
