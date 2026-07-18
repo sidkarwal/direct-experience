@@ -1791,5 +1791,23 @@
     "date_found": "2026-07-17T07:51:25.326Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.15253v1",
+    "url": "https://arxiv.org/abs/2607.15253v1",
+    "headline": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search",
+    "description": "Retrieval systems are trained and evaluated on a static idea of usefulness: hand a document and a question to a reader model, see whether the answer improves, and score the document accordingly. The idea holds up when a document is read on its own. It breaks when a language model works as a search a...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-18T07:26:28.272Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
