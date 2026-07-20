@@ -1845,5 +1845,92 @@
     "date_found": "2026-07-19T07:57:51.233Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.16193v1",
+    "url": "https://arxiv.org/abs/2607.16193v1",
+    "headline": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
+    "description": "Multimodal large language models have achieved strong performance across diverse vision-language tasks, yet their capabilities in UAV scenarios remain insufficiently explored. Recent UAV-oriented benchmarks have begun to evaluate MLLMs in aerial scenarios, but they typically focus on scene understan...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-20T08:39:08.192Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.16191v1",
+    "url": "https://arxiv.org/abs/2607.16191v1",
+    "headline": "Cosmological Evidence for Dark Axion-Dark Baryon Interactions from Apparent Phantom Crossing",
+    "description": "Interactions between dark matter and dark energy can lead to an apparent phantom-crossing behavior that mimics the expansion history preferred by the latest cosmological observations from DESI baryon acoustic oscillations (BAO), Cosmic Microwave Background (CMB), and Type Ia supernovae (SNe Ia) data...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-20T08:39:08.193Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.16188v1",
+    "url": "https://arxiv.org/abs/2607.16188v1",
+    "headline": "Optimal control of symmetry-breaking dynamics near criticality",
+    "description": "We study the problem of optimal control for dynamical systems near a pitchfork bifurcation, motivated by the role of external cues in guiding symmetry-breaking transitions in cell-fate selection and other natural processes. Using an asymptotic expansion of the optimality conditions obtained from the...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-20T08:39:08.193Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.16182v1",
+    "url": "https://arxiv.org/abs/2607.16182v1",
+    "headline": "Geometric scaling in elastic $pp$ collisions",
+    "description": "Geometric scaling was conjectured and observed at the ISR more than 50 years ago. We argue that it still holds at the LHC. We show that the dip-bump structures of the differential elastic cross-sections exhibit a remarkable regularity, namely that the ratio of the bump to dip positions is constant f...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-20T08:39:08.193Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.16181v1",
+    "url": "https://arxiv.org/abs/2607.16181v1",
+    "headline": "Vision-Language Assistant for Emotional Reactions to Risky Driving",
+    "description": "This study introduces a vision-language pipeline that detects risky driving behaviors and generates emotionally expressive responses to support driver awareness and comfort. Although vision-language models have advanced perception and reasoning in autonomous driving, existing systems rarely consider...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-20T08:39:08.193Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
