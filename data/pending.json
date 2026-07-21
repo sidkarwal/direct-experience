@@ -1932,5 +1932,95 @@
     "date_found": "2026-07-20T08:39:08.193Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.18235v1",
+    "url": "https://arxiv.org/abs/2607.18235v1",
+    "headline": "Automated Discovery Has No Universally Superior Harness",
+    "description": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-21T08:06:59.897Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.18217v1",
+    "url": "https://arxiv.org/abs/2607.18217v1",
+    "headline": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
+    "description": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fidelity and a...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-21T08:06:59.898Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.18214v1",
+    "url": "https://arxiv.org/abs/2607.18214v1",
+    "headline": "Position-dependent tight-binding model for Li impurities in monolayer and bilayer graphene",
+    "description": "Lithium adsorption and intercalation can significantly modify the low-energy electronic properties of graphene-based materials, making their characterization relevant for understanding Li-ion transport and storage in graphitic electrodes. In this work, we investigate the electronic structure of a Li...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-21T08:06:59.898Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.18212v1",
+    "url": "https://arxiv.org/abs/2607.18212v1",
+    "headline": "Contrasting $Γ$- and K-Valley Moiré Physics in Twisted Monolayer/Bilayer WSe$_2$",
+    "description": "Electronic orbital character plays a central role in determining electronic correlations, spin-orbit coupling, dimensionality, and ultimately the quantum phases of condensed-matter systems. Two-dimensional moiré materials have emerged as highly tunable platforms for exploring correlated phenomena, b...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-21T08:06:59.898Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.18209v1",
+    "url": "https://arxiv.org/abs/2607.18209v1",
+    "headline": "Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS",
+    "description": "This paper considers a multi-environment factor model in which high-dimensional covariates are collected from heterogeneous environments, with auxiliary labels available in a subset of these environments. The joint distribution of the covariates may vary across environments, whereas the latent struc...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-21T08:06:59.898Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
