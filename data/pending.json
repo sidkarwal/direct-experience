@@ -2022,5 +2022,94 @@
     "date_found": "2026-07-21T08:06:59.898Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.19340v1",
+    "url": "https://arxiv.org/abs/2607.19340v1",
+    "headline": "Integral representation of the neutrino mass-squared differences",
+    "description": "Determining the absolute neutrino mass scale remains one of the most compelling challenges in particle physics. To constrain theoretical models, establishing precise relations among neutrino masses is essential. We propose a simple integral representation of the neutrino mass-squared differences $Δm...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-22T08:07:39.611Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.19339v1",
+    "url": "https://arxiv.org/abs/2607.19339v1",
+    "headline": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
+    "description": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training framework for Thinking with Long Audio-Video: omni-modal LLMs ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-22T08:07:39.611Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.19336v1",
+    "url": "https://arxiv.org/abs/2607.19336v1",
+    "headline": "Agents in the Wild: Where Research Meets Deployment",
+    "description": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across domains such as software engineering, scientific discovery, an...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-22T08:07:39.611Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.19335v1",
+    "url": "https://arxiv.org/abs/2607.19335v1",
+    "headline": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+    "description": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifolds. Our layers are o...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-22T08:07:39.611Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.19334v1",
+    "url": "https://arxiv.org/abs/2607.19334v1",
+    "headline": "Fundamental limits of distributed multiclass classification from simple binary decisions",
+    "description": "We consider the problem of constructing a $K$-class classifier from the combination of $O(\\log K)$ simple binary classifiers -- this is a natural paradigm to construct a sophisticated classifier in a distributed manner with each agent performing a relatively straightforward task. We study the fundam...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-22T08:07:39.611Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
