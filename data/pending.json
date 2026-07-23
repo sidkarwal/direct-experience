@@ -2111,5 +2111,96 @@
     "date_found": "2026-07-22T08:07:39.611Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.20001v1",
+    "url": "https://arxiv.org/abs/2607.20001v1",
+    "headline": "Are Attributions of Consciousness to AI Chatbots Epistemically Innocent?",
+    "description": "Artificial intelligence (AI) chatbots (e.g., ChatGPT) can communicate in strikingly humanlike ways. This has prompted many chatbot users to attribute psychological properties, including consciousness, to these systems. However, there is little scientific evidence that current AI chatbots are conscio...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-23T08:10:55.342Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.16896v1",
+    "url": "https://arxiv.org/abs/2607.16896v1",
+    "headline": "PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G",
+    "description": "The realization of next-generation (NG) networks hinges on a fundamental departure from preprogrammed protocol engineering towards a paradigm of self-consciously evolving, autonomous and trusted intelligence. While conventional machine learning (ML) has introduced localized automation, it remains in...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-23T08:10:55.343Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.16659v1",
+    "url": "https://arxiv.org/abs/2607.16659v1",
+    "headline": "The Positive Experience Principle: Forecasting Conscious Choices with AI Embeddings",
+    "description": "A fundamental challenge in the science of consciousness is the lack of a universal, predictive framework for motivated behavior. While existing theories excel at describing specific mechanisms, from neural pathways to computational models, they do not provide a foundational principle that explains t...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-23T08:10:55.343Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.16573v1",
+    "url": "https://arxiv.org/abs/2607.16573v1",
+    "headline": "How to Build Marcus's Algebraic Mind: From Thagard's Brain--Mind Viewpoint",
+    "description": "Two critiques of connectionist cognition converge on one missing capacity. In The Algebraic Mind, Marcus isolated three components any architecture must support -- operations over variables, structured representations, and individuals distinct from kinds -- showed perceptrons support none, and left ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-23T08:10:55.343Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.15883v1",
+    "url": "https://arxiv.org/abs/2607.15883v1",
+    "headline": "Perceived AGI: Believability as Dimensional Completeness, Not Capability",
+    "description": "Large language models are broadly capable, yet in sustained one-to-one conversation they still read as flat: competent, responsive, and somehow not quite the presence of a mind. We hypothesize that a central missing ingredient is not more capability but dimensional completeness. We propose that the ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-23T08:10:55.343Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
