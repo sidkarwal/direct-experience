@@ -2202,5 +2202,92 @@
     "date_found": "2026-07-23T08:10:55.343Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.21594v1",
+    "url": "https://arxiv.org/abs/2607.21594v1",
+    "headline": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+    "description": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared st...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-24T08:06:32.061Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.21586v1",
+    "url": "https://arxiv.org/abs/2607.21586v1",
+    "headline": "Gauge coupling beta functions and gauge field anomalous dimensions at four loops in the Standard Model",
+    "description": "We present the beta functions of the gauge couplings and the anomalous dimensions of the gauge fields in the unbroken phase of the Standard Model at four loops.",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-24T08:06:32.061Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.21585v1",
+    "url": "https://arxiv.org/abs/2607.21585v1",
+    "headline": "Expanding Flow Maps",
+    "description": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed dimensions or fixed sequence lengths. Here, we introduce Expanding Generative Flows (EFlows), which d...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-24T08:06:32.062Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.21584v1",
+    "url": "https://arxiv.org/abs/2607.21584v1",
+    "headline": "Flow-based Phase-space Tomography of Continuous-variable Quantum States",
+    "description": "Continuous-variable quantum state tomography is limited by the cost of resolving non-Gaussian structure in high-dimensional phase space. We introduce QST-Flow, a quantum state tomography framework via flow-based generative modeling that represents experimentally accessible phase-space quasiprobabili...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-24T08:06:32.062Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.21583v1",
+    "url": "https://arxiv.org/abs/2607.21583v1",
+    "headline": "Complexity transition in the Dicke model of light-matter interaction",
+    "description": "Tuning the coupling strength $g$ of an interacting quantum system may drive a sudden change in its ground-state or thermal properties. To identify and grasp non-analytical, or even discontinuous, transitions in far-from-equilibrium dynamics proves more challenging. Recently Krylov complexity $C_K$ h...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-24T08:06:32.062Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
