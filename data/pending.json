@@ -2289,5 +2289,76 @@
     "date_found": "2026-07-24T08:06:32.062Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.21595v1",
+    "url": "https://arxiv.org/abs/2607.21595v1",
+    "headline": "3D-Aware VLMs with Implicit and Explicit Geometries",
+    "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial aware...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-25T07:49:47.648Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.21587v1",
+    "url": "https://arxiv.org/abs/2607.21587v1",
+    "headline": "XMM-Newton and Swift Unveil Another X-Ray Transient in NGC 4945, XMM J130514.64-493311.27",
+    "description": "NGC 4945 hosts a Compton-thick, low luminosity AGN and a nuclear starburst in its core and has been the subject of many previous X-ray investigations of the AGN emission structure, nuclear starburst properties, and ultraluminous X-ray (ULX) source populations. Indeed, NGC 4945 has proven to be a ric...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-25T07:49:47.649Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.21573v1",
+    "url": "https://arxiv.org/abs/2607.21573v1",
+    "headline": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
+    "description": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, existing sufficiency-oriented methods can assign high importance to spurious subsequences that suppor...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-25T07:49:47.649Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.21571v1",
+    "url": "https://arxiv.org/abs/2607.21571v1",
+    "headline": "Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering",
+    "description": "Embodied question answering (EQA) is traditionally evaluated under an episodic formulation, where agents solve each task independently and reset internal state between episodes. However, real-world robots operate continuously and must accumulate, retain, and selectively reuse information acquired fr...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-25T07:49:47.649Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
