@@ -2360,5 +2360,23 @@
     "date_found": "2026-07-25T07:49:47.649Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.21570v1",
+    "url": "https://arxiv.org/abs/2607.21570v1",
+    "headline": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+    "description": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduce \\textit{MedGame}, a...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-26T08:07:27.572Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
