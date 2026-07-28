@@ -2378,5 +2378,93 @@
     "date_found": "2026-07-26T08:07:27.572Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.24744v1",
+    "url": "https://arxiv.org/abs/2607.24744v1",
+    "headline": "Data Pyramid for Embodied Manipulation",
+    "description": "Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. In this wo...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-28T08:13:22.791Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.24743v1",
+    "url": "https://arxiv.org/abs/2607.24743v1",
+    "headline": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+    "description": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-28T08:13:22.791Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.24742v1",
+    "url": "https://arxiv.org/abs/2607.24742v1",
+    "headline": "Measuring Cosmic Neutrino Masses Independently of Dark Energy",
+    "description": "Neutrino oscillations establish that neutrinos are massive, providing the only laboratory detection of physics beyond the Standard Model. Direct kinematic experiments bound the electron-neutrino mass to $m_{ν_e} &lt; 0.45$ eV (KATRIN, 90% CL), implying $\\sum m_ν\\lesssim 1.3$ eV. Conversely, cosmolog...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-28T08:13:22.791Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.24740v1",
+    "url": "https://arxiv.org/abs/2607.24740v1",
+    "headline": "Anyon Condensation In Symmetry-Enriched Topological Phases: $G$-Grading of Multifusion Categories",
+    "description": "Although anyon condensation is a standard mechanism for relating topological orders, anyon condensation in symmetry-enriched topological (SET) phases is more intricate because the condensate must also be compatible with the global symmetry. We study symmetry-preserving anyon condensation in SET phas...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-28T08:13:22.791Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.24737v1",
+    "url": "https://arxiv.org/abs/2607.24737v1",
+    "headline": "Demonstrating the integration of a photonic lantern with an all-fiber-based nulling interferometer",
+    "description": "High-contrast imaging of Solar System scale exoplanets and protoplanets demands advancements in instrumentation to access deeper starlight suppression at smaller angular separations than today's state-of-the-art. The multi-mode to single-mode conversion capabilities of photonic lanterns (PLs) provid...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-28T08:13:22.791Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
