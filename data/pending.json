@@ -2466,5 +2466,95 @@
     "date_found": "2026-07-28T08:13:22.791Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.26050v1",
+    "url": "https://arxiv.org/abs/2607.26050v1",
+    "headline": "$Λ$XCDM: a running vacuum strategy for crossing the phantom divide",
+    "description": "Composite dynamical dark energy (DDE) has recently been explored as an efficient way to help cure cosmological tensions through the so-called $w$XCDM model {Gomez-Valent:2024tdb,Gomez-Valent:2024ejh}, a toy-model version of the $Λ$XCDM model {Grande:2006nn}. The latter is a composite running vacuum ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-29T08:19:15.111Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.26047v1",
+    "url": "https://arxiv.org/abs/2607.26047v1",
+    "headline": "S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information",
+    "description": "Acoustic information provides rich cues about object location, material properties, and changes caused by contact or motion. This paper introduces a new set of acoustic-aware manipulation tasks for imitation learning, in which robots must use auditory cues to determine manipulation targets. These ta...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-29T08:19:15.111Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.26040v1",
+    "url": "https://arxiv.org/abs/2607.26040v1",
+    "headline": "Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance",
+    "description": "Much like humans benefit from guidance while learning, reinforcement learning algorithms may benefit from additional supervision beyond rewards. Leveraging additional information during training to learn better representations and behaviors has been the focus of asymmetric reinforcement learning. Th...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-29T08:19:15.111Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.26038v1",
+    "url": "https://arxiv.org/abs/2607.26038v1",
+    "headline": "Collaborative System Failure Prognostics via Federated Longitudinal-Survival Modeling",
+    "description": "Time-to-event modeling provides a systematic framework for estimating time-dependent failure risk, reliability, and remaining useful life (RUL) from longitudinal condition monitoring data. However, applying these models to distributed prognostics remains challenging because sensor trajectories and f...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-29T08:19:15.111Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.26036v1",
+    "url": "https://arxiv.org/abs/2607.26036v1",
+    "headline": "Non-normal amplification in multitype Hawkes-ETAS models of earthquake triggering",
+    "description": "Earthquake triggering is conventionally characterised by a scalar ETAS branching ratio. We develop a three-type Hawkes-ETAS model that resolves strike-slip, normal, and reverse/thrust earthquakes through a directed branching matrix $N$. While the spectral radius $ρ(N)&lt;1$ controls asymptotic stabi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-07-29T08:19:15.112Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
