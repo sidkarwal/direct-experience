@@ -2787,5 +2787,57 @@
     "date_found": "2026-08-01T08:02:31.490Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.28613v1",
+    "url": "https://arxiv.org/abs/2607.28613v1",
+    "headline": "Lattice composite Fermi liquid with broken inversion symmetry",
+    "description": "We study transport in lattice composite Fermi liquids realized in half-filled Chern bands with broken inversion symmetry. We show that reduced crystalline symmetry exposes intrinsic singular dynamical responses of composite fermions that are otherwise hidden in the conventional Landau-level setting....",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-02T08:04:27.818Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.28612v1",
+    "url": "https://arxiv.org/abs/2607.28612v1",
+    "headline": "Extraction of $σ_{TT}$ for Proton, Neutron, Deuteron and $^3$He from Quasi-real Photon Scattering",
+    "description": "We report on an extraction of the polarized photoproduction cross-section for the proton, deuteron, neutron and $^3$He, obtained by extrapolating electron scattering data to the real photon point. The data are from the Jefferson Lab E97-110 ($^3$He) and CLAS EG4 (proton and deuteron) experiments. In...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-02T08:04:27.818Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.28611v1",
+    "url": "https://arxiv.org/abs/2607.28611v1",
+    "headline": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
+    "description": "Visual generation increasingly requires high-resolution images, long videos, and multimodal context, making the quadratic cost of full attention prohibitive. We introduce Chimera, a hybrid visual diffusion backbone with a principled scaling recipe. Chimera processes text, image, and video tokens in ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-02T08:04:27.818Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
