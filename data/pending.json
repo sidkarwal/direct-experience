@@ -2839,5 +2839,93 @@
     "date_found": "2026-08-02T08:04:27.818Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.29682v1",
+    "url": "https://arxiv.org/abs/2607.29682v1",
+    "headline": "Dark Photons from Perturbative Decay of a Misaligned Higgs Field",
+    "description": "We reconsider the production of dark photons $A'$ as dark matter, from the perturbative decay of a dark Higgs field $h$, that is stochastically misaligned from the minimum of its potential during inflation. This is a simple and predictive framework for generating the $A'$ relic abundance. It is cons...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-03T09:20:16.011Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.29675v1",
+    "url": "https://arxiv.org/abs/2607.29675v1",
+    "headline": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+    "description": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private recovery of density modes for multivariate distributions under local smoothness, c...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-03T09:20:16.011Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.29674v1",
+    "url": "https://arxiv.org/abs/2607.29674v1",
+    "headline": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
+    "description": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. It outperforms SignSGD in practice, yet it can ascend even on a linear function. Signing the gradien...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-03T09:20:16.011Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.29658v1",
+    "url": "https://arxiv.org/abs/2607.29658v1",
+    "headline": "Reusing Past Repairs Through Hierarchical Trajectory Abstraction for Coding Agents",
+    "description": "Although LLM-driven repair agents can tackle complex, repository-level issues, they treat every issue independently and discard the procedural knowledge accumulated from previous repairs. We introduce STAIR, a framework that converts historical repair trajectories into hierarchical, reusable plans t...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-03T09:20:16.011Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2607.29656v1",
+    "url": "https://arxiv.org/abs/2607.29656v1",
+    "headline": "Sgoldstino Phenomenology at SND@HL-LHC",
+    "description": "We study the phenomenology of light scalar sgoldstinos, with masses from the dimuon threshold up to a few GeV, focusing on their production and detection prospects at the SND@HL-LHC experiment. We review the effective sgoldstino interactions with Standard Model particles, the dominant meson-decay pr...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-03T09:20:16.011Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
