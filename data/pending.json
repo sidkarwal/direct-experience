@@ -2927,5 +2927,23 @@
     "date_found": "2026-08-03T09:20:16.011Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.01432v1",
+    "url": "https://arxiv.org/abs/2608.01432v1",
+    "headline": "A New Theory of Value for Post-AGI Economics",
+    "description": "Artificial general intelligence (AGI) may weaken scarcities in labour, expertise, information, and productive capability that underpin established theories of economic value. If cognitive work becomes widely automatable, market price, labour input, revealed preference, profit, and gross output may d...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-04T08:19:07.755Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
