@@ -2945,5 +2945,94 @@
     "date_found": "2026-08-04T08:19:07.755Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.04010v1",
+    "url": "https://arxiv.org/abs/2608.04010v1",
+    "headline": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
+    "description": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods fail to alter the rigid, fixed computation allocation betwe...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-05T08:15:37.914Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.04007v1",
+    "url": "https://arxiv.org/abs/2608.04007v1",
+    "headline": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+    "description": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy self-distillation off...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-05T08:15:37.914Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.04004v1",
+    "url": "https://arxiv.org/abs/2608.04004v1",
+    "headline": "Localizing polymers promotes the centre-mode elastic instability",
+    "description": "The centre-mode elastic instability, prevalent in rectilinear flows of dilute polymer solutions, allows dynamic states to emerge even in the absence of inertia. Here, we show that this instability can be significantly enhanced when the base flow has a nonuniform spatial-distribution of polymers. Spe...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-05T08:15:37.915Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.04003v1",
+    "url": "https://arxiv.org/abs/2608.04003v1",
+    "headline": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
+    "description": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain preferences, task histories, tool routines, and learned skills across sessions. Yet whether retained exp...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-05T08:15:37.915Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.04001v1",
+    "url": "https://arxiv.org/abs/2608.04001v1",
+    "headline": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+    "description": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a single trajectory, sample completed candidates and aggregate them through voting o...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "dark-night",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-05T08:15:37.915Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
