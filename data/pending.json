@@ -3034,5 +3034,93 @@
     "date_found": "2026-08-05T08:15:37.915Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.05150v1",
+    "url": "https://arxiv.org/abs/2608.05150v1",
+    "headline": "The QCD Axion and Neutrino Masses",
+    "description": "The strong CP problem and the origin of neutrino masses are among the clearest motivations for physics beyond the Standard Model. The Peccei-Quinn mechanism offers an elegant dynamical solution to the strong CP problem, predicting the QCD axion, while neutrino masses point to new degrees of freedom ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-06T08:14:10.131Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.05149v1",
+    "url": "https://arxiv.org/abs/2608.05149v1",
+    "headline": "CoCo-IR: Contextual Composed Image Retrieval",
+    "description": "Current instruction-based image retrieval systems are powerful but limited to single-turn interactions, failing to capture the iterative nature of complex, real-world visual searches. To overcome this limitation, we introduce Contextual Composed Image Retrieval (CoCo-IR), a novel task that enables u...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-06T08:14:10.131Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.05145v1",
+    "url": "https://arxiv.org/abs/2608.05145v1",
+    "headline": "Objects as Audio-Visual Modal Sound Fields",
+    "description": "While modern 3D reconstruction excels at modeling object geometry and appearance, it largely ignores the rich acoustic cues revealed through physical interaction. Object impact sounds convey material, stiffness, and structural properties that complement vision, yet existing impact sound modeling app...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-06T08:14:10.131Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.05133v1",
+    "url": "https://arxiv.org/abs/2608.05133v1",
+    "headline": "Near-Field Velocity Estimation and Doppler-Aware Localization in OFDM Massive MIMO",
+    "description": "In Orthogonal Frequency Division Multiplexing (OFDM)-based massive Multiple-Input Multiple-Output (MIMO) near-field (NF) sensing, target motion induces an antenna-dependent bistatic Doppler variation across the array aperture. Ignoring this spatial Doppler variation leads to a model mismatch that de...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-06T08:14:10.131Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.05131v1",
+    "url": "https://arxiv.org/abs/2608.05131v1",
+    "headline": "OPD-V: Visual On-Policy Self-Distillation with Modality Balance",
+    "description": "On-Policy Self-Distillation (OPSD) has become a standard post-training approach for improving visual reasoning in multimodal large language models (MLLMs). Existing methods draw privileged information from diverse input sources to guide self-distillation. Yet these designs overlook Modality Imbalanc...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-06T08:14:10.131Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
