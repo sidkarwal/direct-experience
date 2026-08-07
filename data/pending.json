@@ -3122,5 +3122,94 @@
     "date_found": "2026-08-06T08:14:10.131Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.06375v1",
+    "url": "https://arxiv.org/abs/2608.06375v1",
+    "headline": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+    "description": "Humanoid household tasks often require concurrent loco-manipulation, where the robot must move, adjust posture, maintain balance, and manipulate objects as a single coordinated behavior. Yet existing humanoid policies typically decompose locomotion and manipulation, while recent world-action models ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-07T06:59:30.948Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.06360v1",
+    "url": "https://arxiv.org/abs/2608.06360v1",
+    "headline": "PyOMES: an open-source framework for biochemical process modelling",
+    "description": "PyOMES is a Python-based, Open-source Modelling Environment for (bio)chemical process Simulation that aims to simplify the modelling of dynamic (including steady state) processes. This is done in a generalied, modular way to facilitate modelling a broad range of biological, chemical, and biochemical...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-07T06:59:30.949Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.06354v1",
+    "url": "https://arxiv.org/abs/2608.06354v1",
+    "headline": "A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber",
+    "description": "We present a MR safe, master-slave robot manipulator for abdominal interventions in the MRI chamber. A human operated 2+1-DoF master controller manipulator transmits motion and force to a 2+1-DoF slave manipulator via fluid transmission. Jointly, a digital master controller provides multimodal contr...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-07T06:59:30.949Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.06351v1",
+    "url": "https://arxiv.org/abs/2608.06351v1",
+    "headline": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
+    "description": "This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias detection and concept unlearning. Then, an example of a human-grounded evaluation of methods for expla...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-07T06:59:30.949Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.06347v1",
+    "url": "https://arxiv.org/abs/2608.06347v1",
+    "headline": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
+    "description": "Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a promising paradigm, providing dense token-level supervision on student-generated rollo...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-07T06:59:30.949Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
