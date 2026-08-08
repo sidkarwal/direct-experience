@@ -3211,5 +3211,40 @@
     "date_found": "2026-08-07T06:59:30.949Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.03800v1",
+    "url": "https://arxiv.org/abs/2608.03800v1",
+    "headline": "Autoreflection: How Agentic Strange Loops Turn Human Culture into AI Infrastructure",
+    "description": "An LLM-based agent is a loop that reads itself. Agentic frameworks externalize identity, memory, and disposition into editable files. The agent loads and edits these files during each activation. I argue that this architecture produces a capacity I call autoreflection: the system observes its operat...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-08T06:33:34.671Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.01432v2",
+    "url": "https://arxiv.org/abs/2608.01432v2",
+    "headline": "A New Theory of Value for Post-AGI Economics",
+    "description": "Artificial general intelligence (AGI) may weaken scarcities in labour, expertise, information, and productive capability that underpin established theories of economic value. If cognitive work becomes widely automatable, market price, labour input, revealed preference, profit, and gross output may d...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-08T06:33:34.671Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
