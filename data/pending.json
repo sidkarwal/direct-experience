@@ -3300,5 +3300,93 @@
     "date_found": "2026-08-09T06:37:23.236Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.07470v1",
+    "url": "https://arxiv.org/abs/2608.07470v1",
+    "headline": "HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars",
+    "description": "The Hubble-Lemaître tension remains a significant challenge in modern cosmology, exhibiting a discrepancy between early-Universe cosmic microwave background measurements and local distance ladder observations. Strong lensing time-delay cosmography provides an independent, geometric probe of $H_0$ th...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-10T07:09:21.954Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.07469v1",
+    "url": "https://arxiv.org/abs/2608.07469v1",
+    "headline": "Efficient three-dimensional variational data assimilation of multi-plane PIV data",
+    "description": "We perform three-dimensional variational data assimilation (3DVar) using a discrete adjoint approach to optimise the time-averaged momentum equations. The experimental data consist of sparse stereoscopic particle image velocimetry (PIV) measurements collected along $12$ cross-stream planes in the wa...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-10T07:09:21.954Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.07456v1",
+    "url": "https://arxiv.org/abs/2608.07456v1",
+    "headline": "Optimal Calibration-Free Observable for the Nucleon-Coupling Ratio in a Dual-Alkali Comagnetometer for Dark Matter Searches",
+    "description": "A dual-alkali single-cell $^{87}$Rb-$^{39}$K-$^{3}$He comagnetometer can read an axionlike dark matter signal through two optical-rotation channels, encoding the ratio $\\mathcal{R}=ξ_n/ξ_p$ of the field's neutron and proton spin couplings in their relative response. The inter-species phase differenc...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-10T07:09:21.954Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.07454v1",
+    "url": "https://arxiv.org/abs/2608.07454v1",
+    "headline": "Strategy-first synthesis planning for complex natural products",
+    "description": "The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks into an intricate target, devise backup strategies, and anticipate procedural challenges. It is also...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-10T07:09:21.954Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.07453v1",
+    "url": "https://arxiv.org/abs/2608.07453v1",
+    "headline": "Sensitivity of Next-Generation CMB Surveys to Neutrinos and Other Light Relics",
+    "description": "Neutrinos and other light relics leave characteristic imprints in the cosmic microwave background anisotropies, making their observation a sensitive probe of the particle content and thermal history of the early universe. The energy density in these relativistic species is parameterized by their eff...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-10T07:09:21.954Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
