@@ -3388,5 +3388,96 @@
     "date_found": "2026-08-10T07:09:21.954Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.09908v1",
+    "url": "https://arxiv.org/abs/2608.09908v1",
+    "headline": "Beyond Hazard Resemblance: Contrastive Event Adjudication for Training-Free Video Anomaly Detection",
+    "description": "Video anomaly detection (VAD) aims to identify and temporally localize abnormal events in videos. Supervised methods learn anomaly decision boundaries from target-domain annotations but require substantial in-domain data. Existing training-free methods leverage the rich semantic knowledge and reason...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-11T06:46:33.307Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.09907v1",
+    "url": "https://arxiv.org/abs/2608.09907v1",
+    "headline": "DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning",
+    "description": "Multimodal Large Language Models (MLLMs) have shown strong multimodal instruction-following ability, but adapting them to diverse visual-language domains typically assumes centralized data access and costly joint training. This is restrictive when data is distributed across private, domain-specific,...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-11T06:46:33.307Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.09905v1",
+    "url": "https://arxiv.org/abs/2608.09905v1",
+    "headline": "Full-Wave Harmonic Balance Framework for Dispersive Time-Varying Photonic Structures",
+    "description": "Time-varying photonic structures redistribute electromagnetic energy among Floquet harmonics, enabling frequency conversion, nonreciprocity, parametric gain, and dynamic wavefront control. Accurate modeling of realistic platforms remains challenging when temporal modulation occurs in strongly disper...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "jhana",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-11T06:46:33.307Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.09903v1",
+    "url": "https://arxiv.org/abs/2608.09903v1",
+    "headline": "From Nonlinear Stochastic Differential Equations to Quantum Channels: The Kolmogorov--Lindblad Mapping",
+    "description": "Nonlinear stochastic differential equations (SDEs) underlie molecular modeling and drug discovery, quantitative finance, stochastic learning, and uncertainty quantification. Their expectations, event probabilities, and time correlations are therefore natural targets for quantum computation, but nonl...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-11T06:46:33.307Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.09898v1",
+    "url": "https://arxiv.org/abs/2608.09898v1",
+    "headline": "Consilience for Verifier-Free Test-Time Scaling",
+    "description": "Test-time scaling often uses an external verifier, such as compilers and test cases in coding or trained value functions in robotics applications, to obtain high-quality rollouts. Verifier-free test-time scaling (or VF-TTS) is gaining extensive attention as a mechanism to enhance Large Language Mode...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-11T06:46:33.307Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
