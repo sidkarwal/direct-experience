@@ -3479,5 +3479,41 @@
     "date_found": "2026-08-11T06:46:33.307Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.10730v1",
+    "url": "https://arxiv.org/abs/2608.10730v1",
+    "headline": "Smart Enough to Go Extinct? An Evolutionary Challenge to the Value of General Intelligence and Its Ethical Implications for AGI",
+    "description": "The pursuit of artificial general intelligence (AGI) rests on a seemingly self-evident premise: that general intelligence, the kind of flexible, domain-general cognitive capacity exemplified by Homo sapiens, is extraordinarily valuable. This paper subjects this premise to critical scrutiny. We first...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-12T07:07:16.025Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.10218v1",
+    "url": "https://arxiv.org/abs/2608.10218v1",
+    "headline": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+    "description": "AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction. One such risk is the spread of mind viruses: ideas or goals that propagate through multi-agent systems by inducing the agents that adopt them to transm...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-12T07:07:16.026Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
