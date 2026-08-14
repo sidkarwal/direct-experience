@@ -3605,5 +3605,96 @@
     "date_found": "2026-08-13T07:11:11.457Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.13561v1",
+    "url": "https://arxiv.org/abs/2608.13561v1",
+    "headline": "Experimental Quantum Key Distribution in an Indefinite Causal Order",
+    "description": "In quantum physics the order in which different operations occur can be placed in superposition. The resulting processes have an indefinite causal order and are both of fundamental interest and can be viewed as a novel quantum resource that enables a variety of new protocols. Here we report an exper...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-14T07:07:50.046Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.13560v1",
+    "url": "https://arxiv.org/abs/2608.13560v1",
+    "headline": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+    "description": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empiric...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-14T07:07:50.047Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.13558v1",
+    "url": "https://arxiv.org/abs/2608.13558v1",
+    "headline": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+    "description": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depend...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-14T07:07:50.047Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.13557v1",
+    "url": "https://arxiv.org/abs/2608.13557v1",
+    "headline": "Localised Horizons and Holographic Thermodynamics: Supercooling in the 1/D Expansion",
+    "description": "In holography, four-dimensional confining gauge theories are often modelled by five-dimensional Einstein--scalar gravity by choosing a specific form of the scalar potential. In a large class of non-conformal theories, we show that a predictive structure emerges for the thermal confinement transition...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-14T07:07:50.047Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.13556v1",
+    "url": "https://arxiv.org/abs/2608.13556v1",
+    "headline": "V-RAE: Rethinking Video Latent Spaces for Generation",
+    "description": "Latent video generation relies on autoencoders to define a compact space in which generative models operate. Although video autoencoder architectures have evolved substantially, their latent spaces are still optimized primarily for pixel-level reconstruction and provide limited high-level semantic o...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-14T07:07:50.047Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
