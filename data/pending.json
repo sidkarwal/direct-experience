@@ -3696,5 +3696,23 @@
     "date_found": "2026-08-14T07:07:50.047Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.13554v1",
+    "url": "https://arxiv.org/abs/2608.13554v1",
+    "headline": "Defensive Boosting for Online Probabilistic Forecasting",
+    "description": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guarantees that existing online boosting techniques provide separately. Online gradie...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-15T06:19:38.232Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
