@@ -3714,5 +3714,23 @@
     "date_found": "2026-08-15T06:19:38.232Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.11398v1",
+    "url": "https://arxiv.org/abs/2608.11398v1",
+    "headline": "Consciousness as Intrinsic Structure: Towards a Chemistry of Experience",
+    "description": "To be conscious is to have an experience - not a collection of phenomenal atoms, but a structured whole composed of distinctions and the relations that bind them. Integrated Information Theory (IIT) identifies the essential properties of every experience (axioms), formulates them operationally as po...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-16T06:22:00.080Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
