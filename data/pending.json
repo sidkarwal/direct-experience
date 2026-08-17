@@ -3732,5 +3732,95 @@
     "date_found": "2026-08-16T06:22:00.080Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.14549v1",
+    "url": "https://arxiv.org/abs/2608.14549v1",
+    "headline": "Blazar Boosted Dark Matter in IceCube",
+    "description": "We study the sensitivity of IceCube to blazar-boosted dark matter in a fermionic dark matter model with a massive vector mediator coupling to quarks. To this aim, we compute the diffuse flux arising from a sample of 324 blazars with proton spectra inferred from multiwavelength observations, adopting...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-17T06:32:19.125Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.14542v1",
+    "url": "https://arxiv.org/abs/2608.14542v1",
+    "headline": "Generation-Powered Inference for Distribution-Valued Outcomes",
+    "description": "Modern generative models increasingly produce distribution-valued outputs, such as predicted cellular responses to genetic perturbations in single-cell genomics. While these models provide valuable auxiliary information, they are inherently imperfect, creating a need for statistical methods that lev...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-17T06:32:19.126Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.14541v1",
+    "url": "https://arxiv.org/abs/2608.14541v1",
+    "headline": "Building a Quantum Black Hole Microstate: A Bulk Path Integral for a Heavy Virasoro Primary",
+    "description": "Consider level-$k$ $SL(2,R) \\times SL(2,R)$ Chern-Simons theory on a semi-infinite solid cylinder, with a Wilson line in the unitary principal continuous series inserted along the time direction at the center of the spatial disc. We argue that at the $τ=0$ cut, this Euclidean path integral prepares ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-17T06:32:19.126Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.14538v1",
+    "url": "https://arxiv.org/abs/2608.14538v1",
+    "headline": "Vector-Like Fermions at FCC-ee: NLO Higgs-Strahlung Signatures and Constraints",
+    "description": "We compute the one-loop effects of vector-like fermions (VLFs) on the Higgs-strahlung cross-section, the flagship precision observable of future $e^+e^-$ Higgs factories such as FCC-ee. We consider four benchmark extensions of the Standard Model (SM): two in which a VL quark (VLQ) or VL lepton (VLL)...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-17T06:32:19.126Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.14535v1",
+    "url": "https://arxiv.org/abs/2608.14535v1",
+    "headline": "Skyrmion Fractional Chern Insulator: An Intrinsically Multiband Route to Fractionalization in Rhombohedral Graphene",
+    "description": "We propose an unconventional microscopic origin for the fractional quantum anomalous Hall (FQAH) effect in rhombohedral graphene moiré superlattices: skyrmion fractionalization. We view the state at filling $ν&lt;1$ as a metal of skyrmion vacancies, charge $+e$ objects formed by removing layer-pseud...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-17T06:32:19.126Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
