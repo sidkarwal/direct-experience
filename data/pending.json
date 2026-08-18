@@ -3822,5 +3822,97 @@
     "date_found": "2026-08-17T06:32:19.126Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.16868v1",
+    "url": "https://arxiv.org/abs/2608.16868v1",
+    "headline": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+    "description": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detectable evidence of which causally relevant internal state occurred. We test a bounded form of this idea in...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-18T06:24:03.063Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.16858v1",
+    "url": "https://arxiv.org/abs/2608.16858v1",
+    "headline": "ECO-ID: Event-Camera based Optical System for Secure Multi-User Ultra-Low Latency Identification",
+    "description": "Time-critical interactive systems increasingly require ultra-low-latency device identification for multiple users, yet prevailing approaches such as passwords, QR codes, and RFID/NFC are constrained by human input, frame-based sensing, or near-contact range. This paper presents ECO-ID, an event-came...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-18T06:24:03.063Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.16853v1",
+    "url": "https://arxiv.org/abs/2608.16853v1",
+    "headline": "FlexWorm: Primitive-augmented Hybrid Contact-motion Planning for Suction-based Multi-segment Deformable Robots",
+    "description": "Multi-segment suction-based soft robots are promising for inspection and maintenance in confined or fragile environments, but existing approaches still depend heavily on manually designed gaits and environment-specific motion scripts. This work presents a planning framework for serial multi-segment ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-18T06:24:03.063Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.16849v1",
+    "url": "https://arxiv.org/abs/2608.16849v1",
+    "headline": "Targeting Support Using Job Seekers' Biases: A Randomized Experiment",
+    "description": "Most digital job-search assistance encourages unemployed workers to broaden their search toward related occupations, targeting one important source of search inefficiency: insufficient occupational diversification. Our analysis suggests that the relevant margin of adjustment depends on the underlyin...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "spontaneous",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-18T06:24:03.063Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.16848v1",
+    "url": "https://arxiv.org/abs/2608.16848v1",
+    "headline": "Topology-Aware Differentiable Triangle-Soup Reconstruction via Persistent Homology",
+    "description": "Differentiable triangle-soup reconstruction inherits a limitation from its objective: photometric and geometric losses cannot measure topology, so a reconstruction with a collapsed loop or a punctured enclosed void can score exactly as well as a correct one (on Chamfer-equal probes the diagrams diff...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-18T06:24:03.063Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
