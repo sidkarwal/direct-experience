@@ -3914,5 +3914,95 @@
     "date_found": "2026-08-18T06:24:03.063Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.18071v1",
+    "url": "https://arxiv.org/abs/2608.18071v1",
+    "headline": "Ultrafast and high resolution spatial light modulation for cold atoms",
+    "description": "Programmable arrays of ultracold atoms are a leading platform for quantum computation and simulation, enabling state-of-the-art implementations of quantum error correction, and analog simulations of Hubbard models that address open problems in condensed matter physics. In these systems, all local co...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-19T06:25:00.841Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.18067v1",
+    "url": "https://arxiv.org/abs/2608.18067v1",
+    "headline": "Planning Against Learning in Rank-1 Games",
+    "description": "Learning algorithms are often used to make decisions in repeated multi-agent environments. When another player understands how a learner adapts from past experience, that player can plan strategically across rounds to influence the learner's future behavior. Recent work shows that optimizing against...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-19T06:25:00.842Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.18066v1",
+    "url": "https://arxiv.org/abs/2608.18066v1",
+    "headline": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+    "description": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduct a...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-19T06:25:00.842Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.18063v1",
+    "url": "https://arxiv.org/abs/2608.18063v1",
+    "headline": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
+    "description": "High-resolution image editing is increasingly demanded in professional workflows, yet existing diffusion-based models remain constrained to resolutions below 1K due to quadratic attention complexity and prohibitive memory requirements. A prevalent workaround employs a two-stage pipeline: editing at ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-19T06:25:00.842Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.18062v1",
+    "url": "https://arxiv.org/abs/2608.18062v1",
+    "headline": "TokEval: A Tokenizer Evaluation Suite",
+    "description": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited understanding of which tokenizer properties affect which aspects of downstream performance. We introduce...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-19T06:25:00.842Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
