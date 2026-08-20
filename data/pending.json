@@ -4004,5 +4004,77 @@
     "date_found": "2026-08-19T06:25:00.842Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.18816v1",
+    "url": "https://arxiv.org/abs/2608.18816v1",
+    "headline": "Do Large Language Models Hallucinate Electric Fata Morganas?",
+    "description": "AI hallucinations - that is, outputs which are made up, cannot be verified, or contradict the source material - are generally regarded as an engineering flaw to be dealt with. This paper contends that they also have philosophical significance when it comes to the question of machine consciousness. W...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "spontaneous",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-20T06:25:50.310Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.17204v1",
+    "url": "https://arxiv.org/abs/2608.17204v1",
+    "headline": "On-sky demonstration of dual-field interferometry at the CHARA Array",
+    "description": "Dual-field interferometry uses a bright reference star for real-time fringe tracking, allowing a second beam combiner to record long coherent integrations on a fainter off-axis science target. At the Center for High Angular Resolution Astronomy (CHARA) Array, we implement this mode using the six-tel...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-20T06:25:50.310Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.14165v1",
+    "url": "https://arxiv.org/abs/2608.14165v1",
+    "headline": "Integrated Information in the Active Inference Framework",
+    "description": "The active inference framework provides a principled approach to modeling sentient behavior. In this framework perception and action selection are treated in a unified way. The resulting agents form an internal generative model of the relevant dynamics of the world in order to infer their future obs...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-20T06:25:50.310Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.14731v1",
+    "url": "https://arxiv.org/abs/2608.14731v1",
+    "headline": "Emergence of Transfer Learning towards Specific Identification of Alzheimer's Disease A Prospective Approach",
+    "description": "Worldwide, millions of senior citizens are suffering from Alzheimer disease abbreviated as AD, a well- versed form of dementia. AD is featured by amnesia, intellectual disability, and difficulty with consciousness. DL and ML models are undoubtedly explored to identify AD related patterns on large di...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-20T06:25:50.310Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
