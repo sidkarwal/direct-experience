@@ -4076,5 +4076,95 @@
     "date_found": "2026-08-20T06:25:50.310Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20340v1",
+    "url": "https://arxiv.org/abs/2608.20340v1",
+    "headline": "Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations",
+    "description": "Strong light-matter interactions in optical microcavities give rise to hybrid light-matter states known as polaritons. While actively used in modern technologies, theoretical descriptions of such systems are often restricted to the single-excitation case, limiting their ability to capture many-excit...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-21T06:27:43.871Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20333v1",
+    "url": "https://arxiv.org/abs/2608.20333v1",
+    "headline": "Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy",
+    "description": "For an untwisted Wess--Zumino--Witten modular tensor category $\\cC(\\mathfrak g,k)$, let $r(\\mathfrak g,k)$ be the number of simple objects and $\\cD(\\mathfrak g,k)$ its total quantum dimension. The vacuum-flux state on a torus divided into two cylinders has positive universal entropy contribution $Γ_...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-21T06:27:43.871Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20332v1",
+    "url": "https://arxiv.org/abs/2608.20332v1",
+    "headline": "A Protocol for Shielding-Enhanced Loading of Single Polar Molecules into Optical Tweezers",
+    "description": "We propose the high-fidelity preparation of single bosonic molecules in optical tweezers starting from small tweezer-trapped molecular ensembles. Our scheme combines a static electric field and a microwave field to generate strong, tunable, anisotropic interactions that shield the molecules against ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-21T06:27:43.871Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20329v1",
+    "url": "https://arxiv.org/abs/2608.20329v1",
+    "headline": "Production of quarkonium pairs via the fragmentation mechanism",
+    "description": "In this manuscript, we analyze the contribution of fragmentation mechanisms to the inclusive hadroproduction of heavy quarkonium pairs, taking into account both single- and double-hadron (dihadron) fragmentation channels. To estimate the contribution of the latter mechanism, we construct a microscop...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-21T06:27:43.871Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20328v1",
+    "url": "https://arxiv.org/abs/2608.20328v1",
+    "headline": "The Memory Hidden in Response Fluctuations: Trajectory-Level Fluctuation-Response Theory and Inequalities for Non-Markovian Jump Dynamics",
+    "description": "Modern experiments often record nonequilibrium dynamics as sequences of discrete events whose rates depend on the realized past. We develop a fluctuation-response theory for such non-Markovian jump processes directly on the observed event record. Memory can destroy a closed master equation for the s...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "spontaneous",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-21T06:27:43.871Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
