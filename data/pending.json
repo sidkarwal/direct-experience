@@ -4166,5 +4166,78 @@
     "date_found": "2026-08-21T06:27:43.871Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20335v1",
+    "url": "https://arxiv.org/abs/2608.20335v1",
+    "headline": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+    "description": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Splatting (4DGS). Existing camera-controlled video diffusion models synthesize plausible novel-view vide...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-22T06:21:20.721Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20331v1",
+    "url": "https://arxiv.org/abs/2608.20331v1",
+    "headline": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+    "description": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-dependent patient communication, yet existing medical vision-language tasks do not adequately capture these...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-22T06:21:20.722Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20327v1",
+    "url": "https://arxiv.org/abs/2608.20327v1",
+    "headline": "Competing triangular and stripe supersolid orders in a dipolar quantum gas",
+    "description": "Supersolids are exotic quantum states in which long-range phase coherence coexists, and may interplay, with emergent spatial orders. A particularly rich phase diagram featuring several competing spatial orders is predicted for dipolar supersolids with two-dimensional crystals, yet the experimental o...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-22T06:21:20.722Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20326v1",
+    "url": "https://arxiv.org/abs/2608.20326v1",
+    "headline": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
+    "description": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-hoc confidence estimation addresses this by training a lightweight auxiliary head over a frozen classi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-22T06:21:20.722Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
