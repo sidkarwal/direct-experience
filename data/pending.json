@@ -4239,5 +4239,41 @@
     "date_found": "2026-08-22T06:21:20.722Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20316v1",
+    "url": "https://arxiv.org/abs/2608.20316v1",
+    "headline": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
+    "description": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most effectively at the lowest cost. Routing requires estimating each specialist's expected return, but th...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-23T06:22:27.585Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20312v1",
+    "url": "https://arxiv.org/abs/2608.20312v1",
+    "headline": "Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis",
+    "description": "The capability to perceive and synthesize human-human interactions is fundamental to developing intelligent digital human systems. However, existing datasets and modeling approaches are fundamentally constrained by low-fidelity kinematics, the omission of dexterous hand gestures and a severe lack of...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-23T06:22:27.585Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
