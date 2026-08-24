@@ -4275,5 +4275,40 @@
     "date_found": "2026-08-23T06:22:27.585Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20723v1",
+    "url": "https://arxiv.org/abs/2608.20723v1",
+    "headline": "Conscious Access as Continuous-to-Discrete Translation",
+    "description": "The scientific study of consciousness frequently stalls on ontological debates regarding the \"Hard Problem.\" This paper proposes a pragmatic pivot. Rather than asking what consciousness is metaphysically, we ask how modeling conscious access as a specific computational transformation may address exi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-24T06:35:32.914Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.20420v1",
+    "url": "https://arxiv.org/abs/2608.20420v1",
+    "headline": "Categorical AI phenomenology: A first-person approach",
+    "description": "This paper develops a phenomenology-first approach to artificial consciousness by reframing consciousness as the subjective experience enacted through an agent's interface with the world. We shift the methodological focus to first-person structures, modeled mathematically by categories derived from ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-24T06:35:32.914Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
