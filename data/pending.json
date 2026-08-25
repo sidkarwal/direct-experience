@@ -4310,5 +4310,95 @@
     "date_found": "2026-08-24T06:35:32.914Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.23556v1",
+    "url": "https://arxiv.org/abs/2608.23556v1",
+    "headline": "Quaternionic Hermitian Band Geometry in Four Dimensions: Realization on $S^4$ and Obstruction on $T^4$",
+    "description": "We establish a realization-obstruction dichotomy for quaternionic Hermitian band geometry in four-dimensional parameter spaces: the minimal-charge lowest Landau level on $S^{4}$ provides a global realization, whereas an everywhere nondegenerate saturated realization induced by a single occupied quat...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-25T06:26:32.443Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.23555v1",
+    "url": "https://arxiv.org/abs/2608.23555v1",
+    "headline": "Two-loop renormalisation and Higgs phenomenology in the five-dimensional MSSM",
+    "description": "The five-dimensional Minimal Supersymmetric Standard Model (5D MSSM) provides an attractive framework in which power-law renormalisation group evolution naturally generates a sizeable trilinear stop coupling, allowing the observed Higgs boson mass to be reproduced without requiring too heavy a super...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-25T06:26:32.443Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.23536v1",
+    "url": "https://arxiv.org/abs/2608.23536v1",
+    "headline": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition",
+    "description": "The continual evolution of malware variants necessitates detection systems that can adapt to new threats without retraining from scratch. However, continually updating models on new data often leads to catastrophic forgetting, where previously learned knowledge is overwritten. While continual learni...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-25T06:26:32.443Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.23535v1",
+    "url": "https://arxiv.org/abs/2608.23535v1",
+    "headline": "Bound States in Exactly Solvable Polaritonic Models",
+    "description": "We study a one-dimensional scalar model for an effective-mass quasiparticle field coupled to a continuum of two-level atoms with at most one excitation present. We prove a general theorem on the existence of bound states under sign-definite spatially localized perturbations of constant atomic densit...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-25T06:26:32.443Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.23534v1",
+    "url": "https://arxiv.org/abs/2608.23534v1",
+    "headline": "Strong Lensing Cosmology with Population-level Calibrated Neural Ratio Estimation",
+    "description": "Strong gravitational lensing contains key information about cosmic acceleration. Modern and next-generation galaxy imaging surveys are expected to provide high-quality data on $\\mathcal{O}(10^5)$ galaxy-galaxy lensing systems. The plethora and complexity of the data are likely to present computation...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-25T06:26:32.443Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
