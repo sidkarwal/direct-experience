@@ -4400,5 +4400,94 @@
     "date_found": "2026-08-25T06:26:32.443Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.24885v1",
+    "url": "https://arxiv.org/abs/2608.24885v1",
+    "headline": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
+    "description": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithfully reflect arbitrary valid actions. Existing benchmarks are typically confined to expert demonstrati...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-26T06:29:07.165Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.24881v1",
+    "url": "https://arxiv.org/abs/2608.24881v1",
+    "headline": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
+    "description": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is not a calibrated test against sampling variation. FID's moment restriction has con...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-26T06:29:07.166Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.24880v1",
+    "url": "https://arxiv.org/abs/2608.24880v1",
+    "headline": "Coherent Direct D-MIMO Localization",
+    "description": "Distributed multiple-input multiple-output (D-MIMO) is envisioned as a key deployment architecture for future wireless systems, offering improved coverage and robustness through spatial separation, and favorable geometry for localization and sensing. Its greatest potential for localization lies in j...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-26T06:29:07.166Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.24876v1",
+    "url": "https://arxiv.org/abs/2608.24876v1",
+    "headline": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+    "description": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-26T06:29:07.166Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.24875v1",
+    "url": "https://arxiv.org/abs/2608.24875v1",
+    "headline": "Ice melting in an oscillatory flow",
+    "description": "We investigate the melting dynamics of an ice disk subjected to an external oscillatory flow using two-dimensional direct numerical simulations, in the absence of buoyancy, varying the flow amplitude and its oscillation frequency. We identify two distinct regimes governed by the interplay between ad...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-26T06:29:07.166Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
