@@ -4489,5 +4489,95 @@
     "date_found": "2026-08-26T06:29:07.166Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.26101v1",
+    "url": "https://arxiv.org/abs/2608.26101v1",
+    "headline": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
+    "description": "Recent advances in video editing have been largely driven by large-scale instruction-based datasets. However, existing datasets still suffer from two critical limitations. First, target videos are commonly produced by automatic editing models, which may introduce visible artifacts and unreliable sup...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-27T17:03:47.456Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.26095v1",
+    "url": "https://arxiv.org/abs/2608.26095v1",
+    "headline": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
+    "description": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs typically optimize target tokens uniformly, overlooking their heterog...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-27T17:03:47.457Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.26094v1",
+    "url": "https://arxiv.org/abs/2608.26094v1",
+    "headline": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+    "description": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback....",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-27T17:03:47.457Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.26093v1",
+    "url": "https://arxiv.org/abs/2608.26093v1",
+    "headline": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
+    "description": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer can be surrendered to an autonomous agent in its entirety. We adopt the autoresearc...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-27T17:03:47.457Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.26077v1",
+    "url": "https://arxiv.org/abs/2608.26077v1",
+    "headline": "Anatomy of an extensive air shower: building an optimal radio emission calculation",
+    "description": "Radio emission from particle air showers is one of the most promising detection techniques to achieve an experiment with a large exposure in ultra-high-energy astroparticle physics. In this regime, above $10^{17}$ eV, the detailed calculation of the radio emission from Monte Carlo particle showers i...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-27T17:03:47.457Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
