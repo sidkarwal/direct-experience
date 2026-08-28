@@ -4579,5 +4579,58 @@
     "date_found": "2026-08-27T17:03:47.457Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.26873v1",
+    "url": "https://arxiv.org/abs/2608.26873v1",
+    "headline": "The Bomb, the Hubris, and the Spectre",
+    "description": "In this essay I will make a non-exhaustive survey of the role of scientists, politicians, and the military in the development and use of the Bomb in the thirty years following the beginning of the United States Manhattan Project. I will be mainly focusing on facts or documents that have gradually fa...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-28T17:52:00.535Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.26361v1",
+    "url": "https://arxiv.org/abs/2608.26361v1",
+    "headline": "Misunderstanding Convivial Solipsism: the Necessity of a Perspectival Logic",
+    "description": "Convivial Solipsism is easily misunderstood. Because it denies the absoluteness of observed events while preserving the universality of quantum mechanics, it invites objections that are often formulated in a classical, non-perspectival language. Such objections appear powerful only because they smug...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-28T17:52:00.536Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.23345v1",
+    "url": "https://arxiv.org/abs/2608.23345v1",
+    "headline": "Beyond the Mirror: Balancing Interaction Modality and Avatar Fidelity in Public 3D Virtual Try-On Systems",
+    "description": "Virtual Try-On (VTON) systems deployed on large public displays face a dual barrier: the physical strain of mid-air interaction and the social inhibition caused by public self-consciousness. This paper presents a real-time 3D avatar system integrating markerless motion capture with dynamic visual fi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-08-28T17:52:00.536Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
