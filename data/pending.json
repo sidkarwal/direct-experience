@@ -4844,5 +4844,77 @@
     "date_found": "2026-08-31T12:06:54.669Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.28829v1",
+    "url": "https://arxiv.org/abs/2608.28829v1",
+    "headline": "The Hot, Continuum-compact State of the Yellow Hypergiant V509 Cassiopeiae: CHARA Diameters, CO-band Angular-extension Constraints, and Companion Limits",
+    "description": "Yellow hypergiants are rare, evolved massive stars generally interpreted as post-red-supergiant objects evolving blueward through or near the dynamically unstable Yellow Evolutionary Void. V509~Cassiopeiae is a remarkable example: its spectroscopically inferred effective temperature increased from a...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-01T10:44:28.551Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.28825v1",
+    "url": "https://arxiv.org/abs/2608.28825v1",
+    "headline": "When to take one box, when to take two: A concrete analysis of Newcomb's problem",
+    "description": "Fifty-seven years of debate have not led to a consensus on Newcomb's problem. I argue that this failure comes from not viewing the problem in concrete terms, for which common-sense intuitions are clearly applicable. If near-perfect predictions are not required - only predictions good enough that Evi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-01T10:44:28.551Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.28824v1",
+    "url": "https://arxiv.org/abs/2608.28824v1",
+    "headline": "Discovering Machine Correlates of Consciousness",
+    "description": "Currently, in biological systems Neural Correlates of Consciousness (NCCs) are characterized in terms of EEG and FMRI signals. Unfortunately, this characterization prevents the transferability of the NCCs concept to machines. Such transferability would be useful in order to investigate AI consciousn...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-01T10:44:28.551Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2608.26361v2",
+    "url": "https://arxiv.org/abs/2608.26361v2",
+    "headline": "Misunderstanding Convivial Solipsism: the Necessity of a Perspectival Logic",
+    "description": "Convivial Solipsism is easily misunderstood. Because it denies the absoluteness of observed events while preserving the universality of quantum mechanics, it invites objections that are often formulated in a classical, non-perspectival language. Such objections appear powerful only because they smug...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-01T10:44:28.552Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
