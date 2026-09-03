@@ -5006,5 +5006,93 @@
     "date_found": "2026-09-02T10:09:30.773Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.02885v1",
+    "url": "https://arxiv.org/abs/2609.02885v1",
+    "headline": "Discriminative World Models for Web Agents",
+    "description": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-03T10:21:05.577Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.02870v1",
+    "url": "https://arxiv.org/abs/2609.02870v1",
+    "headline": "Gaussian-Restricted Barycenters for KL-Unbalanced Optimal Transport: Variational Theory and Fixed-Point Convergence",
+    "description": "We study Gaussian-restricted barycenters for quadratic two-sided Kullback--Leibler unbalanced optimal transport with independent marginal penalties and no coupling entropy. Exact profiling of the barycenter mass reduces the problem to a smooth Gaussian shape functional with endogenous Gibbs weights....",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-03T10:21:05.577Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.02862v1",
+    "url": "https://arxiv.org/abs/2609.02862v1",
+    "headline": "Continuous data assimilation in steady Navier-Stokes equations with unknown viscosity: robust and efficient solvers and fast parameter recovery",
+    "description": "Recent advances in equation discovery methods such as SINDy have highlighted the growing interest in identifying governing parameters and models directly from data. In this work, we take a complementary approach grounded in analysis and numerical PDE methods: we recover an unknown viscosity in stead...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-03T10:21:05.577Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.02847v1",
+    "url": "https://arxiv.org/abs/2609.02847v1",
+    "headline": "RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation",
+    "description": "Novel view synthesis from sparse inputs requires both geometric grounding from the observed views and generative priors of unobserved regions, motivating recent hybrid methods that combine reconstruction and generation. However, existing methods bridge the two with rendered images or explicit 3D rep...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-03T10:21:05.577Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.02839v1",
+    "url": "https://arxiv.org/abs/2609.02839v1",
+    "headline": "Efficient All-in-One Weather Restoration using Spectral Harmonization",
+    "description": "Adverse weather conditions such as rain, haze, and snow significantly degrade image quality, posing challenges for both human perception and physical AI. Existing restoration methods require large computational budgets, struggling to process high-resolution images and handle different degradations. ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-03T10:21:05.577Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
