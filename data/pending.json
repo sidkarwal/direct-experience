@@ -5094,5 +5094,94 @@
     "date_found": "2026-09-03T10:21:05.577Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.04197v1",
+    "url": "https://arxiv.org/abs/2609.04197v1",
+    "headline": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+    "description": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-04T10:08:26.845Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.04185v1",
+    "url": "https://arxiv.org/abs/2609.04185v1",
+    "headline": "Atmospheric neutrino up-scattering explanation of LZ 2026 excess",
+    "description": "The recent observation of an isolated nuclear recoil at $248\\pm 23\\pm 23$ keV energy by LUX-ZEPLIN (LZ) experiment has motivated the community to look for a new physics explanation, as the Standard model background estimation fails to accomodate that. Most of the existing literature hitherto conside...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-04T10:08:26.845Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.04183v1",
+    "url": "https://arxiv.org/abs/2609.04183v1",
+    "headline": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+    "description": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions la...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-04T10:08:26.845Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.04181v1",
+    "url": "https://arxiv.org/abs/2609.04181v1",
+    "headline": "Seasonal dark matter from the LUX-ZEPLIN high-energy event",
+    "description": "The LUX-ZEPLIN experiment has reported a single nuclear recoil at $248\\pm23({\\rm stat})\\pm23({\\rm sys})\\keV$ in an extended search window. Inelastic dark matter, in which the scattering is endothermic, is a natural mechanism for producing a signal at such high energy. We fit the event to the dark ma...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-04T10:08:26.845Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.04180v1",
+    "url": "https://arxiv.org/abs/2609.04180v1",
+    "headline": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+    "description": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that repetition is necessary ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-04T10:08:26.845Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
