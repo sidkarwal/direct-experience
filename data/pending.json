@@ -5183,5 +5183,41 @@
     "date_found": "2026-09-04T10:08:26.845Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.03886v1",
+    "url": "https://arxiv.org/abs/2609.03886v1",
+    "headline": "Interferometric Survey of Stellar Parameters: Mass of the metallic A-type binary $β$ Aur",
+    "description": "With the capabilities of the new visible CHARA/SPICA instrument and the multiple spectral band operation of CHARA, our goal is to resolve orbits of short-period binaries and develop a robust framework for combining interferometric, spectroscopic, and photometric observations into a single consistent...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-05T09:37:55.056Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.03883v1",
+    "url": "https://arxiv.org/abs/2609.03883v1",
+    "headline": "Inferring Affective Consciousness in an Artificial Agent: A Case Study",
+    "description": "Creatures that display 'hedonic place preference behaviour' are thought by many scientists to experience feelings, on the assumption that their attraction to pleasure-producing substances which lack nutritional value (e.g. cocaine, morphine) cannot easily be attributed to unconscious instinctual beh...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-05T09:37:55.056Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
