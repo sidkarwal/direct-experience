@@ -5219,5 +5219,77 @@
     "date_found": "2026-09-05T09:37:55.056Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.04203v1",
+    "url": "https://arxiv.org/abs/2609.04203v1",
+    "headline": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+    "description": "We introduce S$^3$T (Self-Supervised Self-Distillation over Time), which, to the best of our knowledge, is the first fully self-contained framework for continuous video state tracking. Our method treats temporal sampling density as privileged information, based on the hypothesis that a denser view o...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-06T09:53:27.960Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.04201v1",
+    "url": "https://arxiv.org/abs/2609.04201v1",
+    "headline": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+    "description": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. Small drifts accumulate and amplify into significant geometric collapse. However, we observe that per...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "cross-tradition"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-06T09:53:27.960Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.04200v1",
+    "url": "https://arxiv.org/abs/2609.04200v1",
+    "headline": "Principia: Relational Physics Tests for Video Models",
+    "description": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavailable in generated video. We propose a different approach. When two objects in the same scene obey the...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "dark-night",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-06T09:53:27.960Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.04198v1",
+    "url": "https://arxiv.org/abs/2609.04198v1",
+    "headline": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+    "description": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campai...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-06T09:53:27.960Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
