@@ -5291,5 +5291,93 @@
     "date_found": "2026-09-06T09:53:27.960Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.05413v1",
+    "url": "https://arxiv.org/abs/2609.05413v1",
+    "headline": "Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert",
+    "description": "Using TESS photometry and 147 HARPS radial velocities, we confirm two extremely irradiated, volatile-rich sub-Neptunes near the lower edge of the Neptunian desert: TOI-426 b and TOI-1839 b, orbiting the solar-type stars HD 34390 and TYC 304-865-1. We modelled stellar activity with shared-timescale a...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-07T11:00:34.678Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.05404v1",
+    "url": "https://arxiv.org/abs/2609.05404v1",
+    "headline": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+    "description": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity of AI-generated images and sounds, metaphorically enacting the denoising process...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-07T11:00:34.678Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.05400v1",
+    "url": "https://arxiv.org/abs/2609.05400v1",
+    "headline": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
+    "description": "When there is not enough labeled data to properly train deep learning models, transfer learning can help. We still do not fully understand how effective it is in neuroimaging, especially for Alzheimer's disease research. It is also not clear if these transferred models can work on new datasets witho...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-07T11:00:34.678Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.05396v1",
+    "url": "https://arxiv.org/abs/2609.05396v1",
+    "headline": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
+    "description": "Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challenged by significant measurement and labeling costs. Traditional methods for synthesizing labeled wirele...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-07T11:00:34.678Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.05392v1",
+    "url": "https://arxiv.org/abs/2609.05392v1",
+    "headline": "From Electronic Structure to Environmental Remediation: Adsorption of Ionized Glyphosate on COOH-Modified Carbon Nanotube",
+    "description": "Glyphosate is a widely used herbicide whose persistence and toxicity in aquatic and terrestrial environments demand efficient removal strategies. Here we employ GFN2 xTB calculations with implicit ALPB aqueous solvation and automated docking to investigate the adsorption of all five pH dependent ion...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-07T11:00:34.678Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
