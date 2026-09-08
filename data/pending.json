@@ -5379,5 +5379,40 @@
     "date_found": "2026-09-07T11:00:34.678Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.05399v1",
+    "url": "https://arxiv.org/abs/2609.05399v1",
+    "headline": "From Interpretability Methods to Interpretable Models",
+    "description": "More than a decade in, explainable AI (XAI) for computer vision has assembled a mature toolbox: attribution, feature visualization, concept-based, and circuit-based methods. Yet almost all of the field's effort has gone into building and comparing these methods, and little into the question they wer...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-08T10:15:38.291Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.05381v1",
+    "url": "https://arxiv.org/abs/2609.05381v1",
+    "headline": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+    "description": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier models on 12 regression benchmarks for verbatim retrieval and find that it is wi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-08T10:15:38.291Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
