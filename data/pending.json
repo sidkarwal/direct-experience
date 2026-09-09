@@ -5414,5 +5414,42 @@
     "date_found": "2026-09-08T10:15:38.291Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.08165v1",
+    "url": "https://arxiv.org/abs/2609.08165v1",
+    "headline": "A Transformer-Based Delta Expression Encoder for Psilocybin Transcriptional Response: Architecture, Representations, and Biological Validation",
+    "description": "Understanding why individuals respond differently to psilocybin requires modeling the drug's transcriptional perturbation signature at the cell-type level. I present a Transformer-based delta expression encoder that learns to classify differential gene expression status - upregulated, downregulated,...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "psychedelic",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-09T10:21:28.678Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.06715v1",
+    "url": "https://arxiv.org/abs/2609.06715v1",
+    "headline": "We Built a Mirror and Mistook It for a Mind: Causal Liability and the Fallacy of AI Consciousness",
+    "description": "The contemporary debate over machine consciousness begins from a concealed assumption: that the object called \"AI\" already constitutes the kind of entity to which consciousness could belong. This paper challenges that assumption by separating phenomenal consciousness, introspective report, and human...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-09T10:21:28.678Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
