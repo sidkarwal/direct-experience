@@ -5539,5 +5539,97 @@
     "date_found": "2026-09-10T10:13:55.591Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.11927v1",
+    "url": "https://arxiv.org/abs/2609.11927v1",
+    "headline": "Effective Ionic Valence and Local Magnetic Moment in Kagome Superconductors",
+    "description": "In order to understand the unexpected similarity and the correlated behavior in kagome superconductor families AV$_3$Sb$_5$ (A = K, Rb, Cs) and ATi$_3$Bi$_5$ (A = Rb, Cs), we investigate the Hartree-scale local electronic structure of these systems. Our result indicates that V and Ti ions are both o...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "spontaneous",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-11T10:11:38.705Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.11920v1",
+    "url": "https://arxiv.org/abs/2609.11920v1",
+    "headline": "EVPeriscope: Extended Perception across Aerial and Ground Vehicles with Event-based Propeller Tracking",
+    "description": "Reliable relative localization between aerial and ground robots is a key requirement for tightly coordinated heterogeneous teams. This can be difficult to do using conventional frame-based cameras and fiducial markers because they are sensitive to motion blur, lighting variations, and payload constr...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-11T10:11:38.705Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.11917v1",
+    "url": "https://arxiv.org/abs/2609.11917v1",
+    "headline": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+    "description": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of data repetition remains largely unexplored for recently dominant sparse architecture...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-11T10:11:38.705Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.11911v1",
+    "url": "https://arxiv.org/abs/2609.11911v1",
+    "headline": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+    "description": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely solve by hand: objectives, retries, verification, stopping rules and other behavio...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-11T10:11:38.705Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.11907v1",
+    "url": "https://arxiv.org/abs/2609.11907v1",
+    "headline": "A Multi-Axion Ladder Across Cosmic History: From Inflation, BBN, and Early Dark Energy to Late-Time Accelerated Expansion",
+    "description": "What if dark energy is recurrent throughout cosmic history? In this picture, episodes of scalar-field dark energy become less surprising and more natural features of cosmic evolution. We construct a homogeneous multi-axion cosmology with a transient contribution during Big Bang nucleosynthesis, two ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-11T10:11:38.705Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
