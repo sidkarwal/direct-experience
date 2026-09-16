@@ -5649,5 +5649,95 @@
     "date_found": "2026-09-12T09:45:58.405Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.17531v1",
+    "url": "https://arxiv.org/abs/2609.17531v1",
+    "headline": "$B$-sure. Part II. Scattering transforms as robustness test for tensor-to-scalar ratio detection from CMB observations",
+    "description": "Galactic foregrounds represent a major contamination to the measurement of primordial $B$-modes from observations of the Cosmic Microwave Background polarisation. Even after the application of component separation algorithms, foreground residuals may potentially still bias the estimate of the tensor...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-16T10:27:56.241Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.17523v1",
+    "url": "https://arxiv.org/abs/2609.17523v1",
+    "headline": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+    "description": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-16T10:27:56.242Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.17509v1",
+    "url": "https://arxiv.org/abs/2609.17509v1",
+    "headline": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+    "description": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge multiple frames together....",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-16T10:27:56.242Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.17497v1",
+    "url": "https://arxiv.org/abs/2609.17497v1",
+    "headline": "Beyond Hardware: Adaptive Algorithmic Control by State-Proxy Equalization",
+    "description": "Recent advances in quantum computing have been driven primarily by improvements in hardware. Here we show that substantial gains can instead arise from how finite computational resources are allocated throughout a quantum computation. We introduce Adaptive Algorithmic Control (A2C), a software parad...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-16T10:27:56.242Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.17495v1",
+    "url": "https://arxiv.org/abs/2609.17495v1",
+    "headline": "First-Crossing Reduction and Inference for No-Rescue Effects under Deterministic Rescue",
+    "description": "Clinical protocols may require rescue medication when a patient's condition crosses a prespecified threshold. The outcome under continued non-rescue is then unobserved after first crossing, preventing point identification without extrapolation assumptions. In this paper, we develop sharp partial ide...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-16T10:27:56.242Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
