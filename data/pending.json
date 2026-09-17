@@ -5739,5 +5739,40 @@
     "date_found": "2026-09-16T10:27:56.242Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.18868v1",
+    "url": "https://arxiv.org/abs/2609.18868v1",
+    "headline": "Interferometric Survey of Stellar Parameters: Limb darkening study with the \"Pipeline for Interferometric Measurements of Stars\"",
+    "description": "Accurate and unbiased determination of stellar parameters is of importance in many astrophysical domains. We therefore present an improved method to estimate stellar parameters, based on interferometric observations and stellar atmosphere models, as well as spectroscopic and photometric data.\n  The ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-17T10:37:53.982Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.15804v1",
+    "url": "https://arxiv.org/abs/2609.15804v1",
+    "headline": "Multi-chromatic observations of classical Cepheids using the CHARA Array interferometer: Surface brightness-colour relation, projection factor, and limb-darkening",
+    "description": "The Baade-Wesselink (BW) method compares the linear and angular variations of Cepheids to derive their distance. This method is limited, however, by the projection factor, which relates the observed radial velocity to the true pulsation velocity of the star. Using simultaneous observations from the ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-17T10:37:53.982Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
