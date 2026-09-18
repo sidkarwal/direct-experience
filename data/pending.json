@@ -5774,5 +5774,94 @@
     "date_found": "2026-09-17T10:37:53.982Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.20823v1",
+    "url": "https://arxiv.org/abs/2609.20823v1",
+    "headline": "Environment Alignment and Redundant Record Formation in Imperfect-CNOT Quantum Darwinism",
+    "description": "Quantum Darwinism explains objective information through redundant environmental records. Earlier work established that imperfect records can be amplified and that environment self-evolution can enhance or suppress their formation. We investigate how preparation, interaction angle, and field disorde...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-18T10:13:37.123Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.20822v1",
+    "url": "https://arxiv.org/abs/2609.20822v1",
+    "headline": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+    "description": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding ag...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "dark-night",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-18T10:13:37.123Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.20818v1",
+    "url": "https://arxiv.org/abs/2609.20818v1",
+    "headline": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+    "description": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction research has consequently focused on smoke, synthetic liquids, or gently deforming surfaces. To our knowle...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-18T10:13:37.123Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.20817v1",
+    "url": "https://arxiv.org/abs/2609.20817v1",
+    "headline": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+    "description": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAM...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-18T10:13:37.123Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.20804v1",
+    "url": "https://arxiv.org/abs/2609.20804v1",
+    "headline": "An Empirical Study of Harness Design for Coding Agents",
+    "description": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparison...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-18T10:13:37.123Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
