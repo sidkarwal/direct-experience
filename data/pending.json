@@ -5863,5 +5863,77 @@
     "date_found": "2026-09-18T10:13:37.123Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.20815v1",
+    "url": "https://arxiv.org/abs/2609.20815v1",
+    "headline": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
+    "description": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are essential for timely diagnosis, individualized patient management, and targeted survei...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-19T09:55:22.063Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.20810v1",
+    "url": "https://arxiv.org/abs/2609.20810v1",
+    "headline": "A near-IR survey of luminous asymptotic giant branch stars in the satellites and stellar halo of M31",
+    "description": "We investigate the dwarf spheroidal (dSph) satellites and stellar halo of M31 using near-infrared imaging from the Wide-Field Camera on the UKIRT 3.8 m telescope. Our homogeneous analysis covers the stellar extents of 12 dSphs, as well as their surrounding halo field populations. We identify carbon-...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-19T09:55:22.064Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.20807v1",
+    "url": "https://arxiv.org/abs/2609.20807v1",
+    "headline": "Score Centering Stabilizes Off-policy Reinforcement Learning",
+    "description": "Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM). However, completely eliminating TIM is impractical, as it would come at a major cost to rollout effic...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-19T09:55:22.064Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.20803v1",
+    "url": "https://arxiv.org/abs/2609.20803v1",
+    "headline": "Regularity of asymptotically axisymmetric solutions to the 3D Navier-Stokes equations with analytic forcing",
+    "description": "OpenAI~\\cite{OpenAIManuscript} has recently announced a proof of finite time singularity formation for the 3D Navier-Stokes equations, in the presence of a $C^\\infty$-smooth body force. The construction in~\\cite{OpenAIManuscript} has a few key features, among which we single out: (i) the angular mea...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-19T09:55:22.064Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
