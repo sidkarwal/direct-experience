@@ -5988,5 +5988,92 @@
     "date_found": "2026-09-20T10:16:20.234Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.24998v1",
+    "url": "https://arxiv.org/abs/2609.24998v1",
+    "headline": "Statistical Fluctuations as Primordial Correlators in the CMB: Finite Chemical Potential Thermodynamics",
+    "description": "Can primordial cosmological correlations originate from statistical fluctuations of an early-universe thermal system? We connect grand-canonical thermodynamics, stochastic transport, and gauge-invariant cosmological perturbations for a charged fluid at finite chemical potential. Energy-charge suscep...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-22T10:32:58.688Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.24996v1",
+    "url": "https://arxiv.org/abs/2609.24996v1",
+    "headline": "Learning Beyond What Humans Can Demonstrate",
+    "description": "Behavior cloning for robot manipulation relies on expert demonstrations. However, for tasks that require dynamic stability, precise contact timing, or dexterous coordination, human operators may find it hard or even impossible to collect data. We study this infeasible-demonstration regime and propos...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-22T10:32:58.688Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.24993v1",
+    "url": "https://arxiv.org/abs/2609.24993v1",
+    "headline": "Quantum Mpemba effect from Stark localization",
+    "description": "In classical systems, rugged potential energy landscapes provide a transparent mechanism for the celebrated Mpemba effect, in which hotter initial states cool down faster. This picture generally does not survive in quantum systems. Here we show how to design a quantum energy landscape with local dis...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-22T10:32:58.688Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.24992v1",
+    "url": "https://arxiv.org/abs/2609.24992v1",
+    "headline": "Multi-Stage and Multi-Field Inflation in Random Inflationary Landscapes",
+    "description": "Generic potentials in an inflationary landscape are typically too steep to support a prolonged period of cosmic inflation. Atypical flat regions of the landscape are required to support successful inflation. The occurrence of such regions leads broadly to two possibilities: a single prolonged period...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-22T10:32:58.688Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.24990v1",
+    "url": "https://arxiv.org/abs/2609.24990v1",
+    "headline": "Three-Flavoured Thermal Leptogenesis Without Tuning",
+    "description": "We investigate thermal leptogenesis in an extension of the Type-I seesaw in which a real singlet scalar couples non-diagonally to the right-handed neutrinos. The interactions $-y_{ij}φN_iN_j$, with $i\\neq j$, introduce new sources of CP violation in heavy-neutrino decays with a negligible enhancemen...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "dark-night",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-22T10:32:58.688Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
