@@ -6075,5 +6075,95 @@
     "date_found": "2026-09-22T10:32:58.688Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.26796v1",
+    "url": "https://arxiv.org/abs/2609.26796v1",
+    "headline": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+    "description": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by inefficient inference, largely due to the absence of effective Key-Value (KV) caching...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-23T10:26:47.249Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.26793v1",
+    "url": "https://arxiv.org/abs/2609.26793v1",
+    "headline": "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
+    "description": "Compositional 3D scene reconstruction has recently been explored from two directions: agentic reasoning that provides semantic understanding of spatial relationships but lacks precise alignment with input images; and visual geometry foundation models that predict dense point maps from input images b...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-23T10:26:47.249Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.26791v1",
+    "url": "https://arxiv.org/abs/2609.26791v1",
+    "headline": "Fully Discrete Multi-Entropy Stability of High-Order Schemes for Compressible MHD: A Weak-to-Strong Framework",
+    "description": "We establish a fully discrete weak-to-strong (W2S) multi-entropy stability theory for arbitrarily high-order finite-volume and discontinuous Galerkin (DG) approximations of the ideal compressible magnetohydrodynamics (MHD) equations on general polytopal meshes, whereby a single numerical update simu...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-23T10:26:47.249Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.26789v1",
+    "url": "https://arxiv.org/abs/2609.26789v1",
+    "headline": "Polylogarithmic Collective Tree Exploration",
+    "description": "We study asynchronous collective tree exploration, where $k$ agents with unrestricted communication start at the root of an unknown tree and discover edges online. At each step, an adversary chooses which agent moves. We give a deterministic algorithm that explores any tree with $n$ nodes and depth ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-23T10:26:47.249Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.26784v1",
+    "url": "https://arxiv.org/abs/2609.26784v1",
+    "headline": "Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery",
+    "description": "Distributed quantum computing requires fault-tolerant operations across inter-QPU links that can be substantially noisier than local gates. Uniformly increasing code distance provides additional protection but also enlarges data patches used for local storage and computation. Here, we introduce dist...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-23T10:26:47.249Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
