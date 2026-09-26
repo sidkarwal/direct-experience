@@ -6220,5 +6220,95 @@
     "date_found": "2026-09-25T10:47:27.946Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.30265v1",
+    "url": "https://arxiv.org/abs/2609.30265v1",
+    "headline": "Upper critical dimension for dirty Weyl semimetal-to-metal quantum phase transitions",
+    "description": "Weyl or Dirac fermions with the iconic linear energy-momentum relation and average density of states (ADOS) $ρ(E) \\sim |E|^{d-1}$ at energy $E$ in $d$ spatial dimensions, constitute a unique setup to study the disorder-driven semimetal-to-metal quantum phase transition (QPT) between ballistic (reali...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-26T10:29:18.719Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.30264v1",
+    "url": "https://arxiv.org/abs/2609.30264v1",
+    "headline": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+    "description": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduce AD-WM, an action-di...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type",
+      "cross-tradition"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-26T10:29:18.719Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.30255v1",
+    "url": "https://arxiv.org/abs/2609.30255v1",
+    "headline": "A Narrow Neutrino Window for the LZ Event",
+    "description": "The LUX-ZEPLIN (LZ) experiment has reported an event consistent with a $248$ keV nuclear recoil. Explaining the absence of lower-energy recoil events typically calls for some form of upscattering that kinematically forbids such events. In this work, we present a framework in which the LZ observation...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-26T10:29:18.719Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.30253v1",
+    "url": "https://arxiv.org/abs/2609.30253v1",
+    "headline": "How Not to Build Microcrypt",
+    "description": "A key challenge in quantum cryptography is to build quantum one-wayness and pseudorandomness without the use of (quantum computable) one-way functions. So far, this has turned out to be a difficult task, with only a few proposed candidates that are not directly built from one-way functions. Even wit...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "dark-night"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-26T10:29:18.719Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.30248v1",
+    "url": "https://arxiv.org/abs/2609.30248v1",
+    "headline": "Deep thermalization and Hilbert space ergodicity",
+    "description": "Recent advances in quantum simulation have enabled the discovery of novel forms of universality in quantum many-body dynamics. In this Review, we discuss deep thermalization and Hilbert space ergodicity--two recently discovered phenomena characterized by the emergence of distributions of quantum sta...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-26T10:29:18.719Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
