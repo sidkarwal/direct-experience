@@ -6380,5 +6380,93 @@
     "date_found": "2026-09-27T11:00:31.985Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.31618v1",
+    "url": "https://arxiv.org/abs/2609.31618v1",
+    "headline": "Quantum Representation Selects Neutral Skyrmion Molecules",
+    "description": "Skyrmions experience a sideways gyroscopic force when they move. Bound molecules can cancel this force; we call them gyroscopically neutral. We show that the quantum states available on each site of a magnet select the composition needed for cancellation. In two models of $SU(3)$ magnetism, this com...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-28T12:19:27.685Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.31607v1",
+    "url": "https://arxiv.org/abs/2609.31607v1",
+    "headline": "Statistical attribute alignment for black-box generative AI via output post-processing",
+    "description": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-generated output aligns with a user-specified target. This is motivated by examples such as fairness, whe...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-28T12:19:27.685Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.31596v1",
+    "url": "https://arxiv.org/abs/2609.31596v1",
+    "headline": "Oracle Distillation",
+    "description": "Learning and sensing are among the most promising applications of quantum technology, often with provable quantum advantages. In any realistic experiment, however, noise threatens to erase these advantages as the problem size grows. We introduce oracle distillation, a procedure that distills many qu...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-28T12:19:27.686Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.31593v1",
+    "url": "https://arxiv.org/abs/2609.31593v1",
+    "headline": "LAT: a Latinized aperiodic tiling for any sample size",
+    "description": "Quasi-Monte Carlo methods allow computer experiments to be run with far fewer simulations than crude Monte Carlo. A digital net in base two, such as Sobol', is however only balanced when the number of samples is a power of two, and Latin Hypercube Sampling (LHS) accepts any sample size but only cont...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-28T12:19:27.686Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.31590v1",
+    "url": "https://arxiv.org/abs/2609.31590v1",
+    "headline": "AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs",
+    "description": "Existing multi-agent benchmarks primarily test in competitive settings, short-horizon interactions under 20 steps, or simply aggregate individual performance, failing to isolate and highlight genuine collaboration capabilities of LLM-based agents. We introduce AgentWorld, a benchmark of 100 human-an...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-28T12:19:27.686Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
