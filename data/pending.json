@@ -6468,5 +6468,96 @@
     "date_found": "2026-09-28T12:19:27.686Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.35618v1",
+    "url": "https://arxiv.org/abs/2609.35618v1",
+    "headline": "From cacophony to hierarchy: a principled framework for assessing AI consciousness",
+    "description": "The question of AI consciousness is one of the most urgent pre-emptive problems in philosophy and computer science, yet progress is hampered by a cacophony of competing theories that often talk past each other. Separating the hard problem from the mapping problem allows the deepest metaphysical disa...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-29T11:46:46.957Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.35409v1",
+    "url": "https://arxiv.org/abs/2609.35409v1",
+    "headline": "AwarenessBench: Assessing Cognitive Capabilities of Language Models",
+    "description": "As language models (LMs) exhibit increasingly consciousness-like behaviors, evaluating their cognitive abilities becomes essential. We introduce AwarenessBench, the first comprehensive benchmark for assessing the cognitive abilities of LMs in four dimensions: metacognition, self-awareness, social aw...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-29T11:46:46.957Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.35372v1",
+    "url": "https://arxiv.org/abs/2609.35372v1",
+    "headline": "Deep Learning Methods in Neuroscience: From Modeling Molecular Mechanisms to Classifying States of Consciousness",
+    "description": "A critical analysis of contemporary approaches to the study of conscious states. The review focuses on methods of classification, clustering, modeling of brain states under anesthesia and identification of measurable neurobiological characteristics of brain function. A comparative analysis was condu...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-29T11:46:46.957Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.33366v1",
+    "url": "https://arxiv.org/abs/2609.33366v1",
+    "headline": "Towards a full-stack functionalist theory of consciousness: Identifying its functional profile",
+    "description": "If consciousness is functional, a basic question is what awareness of a content actually changes in how a system operates on it. We ask, for a particular content X and mental or bodily process Y, whether awareness of X changes whether, or how well, X can be used in process Y. Crucially, X-aware and ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-29T11:46:46.957Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.30743v1",
+    "url": "https://arxiv.org/abs/2609.30743v1",
+    "headline": "From S3Q Theory to Implementation: Towards an Architecture for Machine Qualia",
+    "description": "A key challenge in machine consciousness research is translating theoretical models into computational-level implementations. In this paper, we address this challenge by proposing a five-layer implementation architecture for the S3Q (Simulated, Situated, Structurally Coherent) theory of consciousnes...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "spontaneous",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-29T11:46:46.957Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
