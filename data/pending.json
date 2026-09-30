@@ -6559,5 +6559,94 @@
     "date_found": "2026-09-29T11:46:46.957Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.38171v1",
+    "url": "https://arxiv.org/abs/2609.38171v1",
+    "headline": "Classification of topological phases of matter in stochastic systems",
+    "description": "Topological phases of matter support edge states protected from noise and perturbations, and the classification of which symmetry and dimension support such phases was developed for quantum systems and analogous platforms. While topological phases have also been discovered in stochastic systems and ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-30T11:33:16.892Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.38169v1",
+    "url": "https://arxiv.org/abs/2609.38169v1",
+    "headline": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "description": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads to severe accuracy degradation, as quantization errors prop...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-30T11:33:16.893Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.38168v1",
+    "url": "https://arxiv.org/abs/2609.38168v1",
+    "headline": "When Classical Correlations Certify Entanglement Recovery",
+    "description": "Entanglement and state distinguishability have long been central topics in quantum foundations. While each has developed into a rich subject in its own right, they can be connected through measurements in complementary bases. This connection provides insights into quantum and classical correlations ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-30T11:33:16.893Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.38166v1",
+    "url": "https://arxiv.org/abs/2609.38166v1",
+    "headline": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+    "description": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size recurrent state and substantially reduce the cost of long-context processing, repeate...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-30T11:33:16.893Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.38165v1",
+    "url": "https://arxiv.org/abs/2609.38165v1",
+    "headline": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+    "description": "The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being missed on both fronts, as a drive for the most novel concepts or the largest datasets pushes finer detail...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-09-30T11:33:16.893Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
