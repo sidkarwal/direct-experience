@@ -6648,5 +6648,93 @@
     "date_found": "2026-09-30T11:33:16.893Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.40358v1",
+    "url": "https://arxiv.org/abs/2609.40358v1",
+    "headline": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+    "description": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume that natural language is insufficient to represent the physical knowledge required for reliable gene...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-01T12:01:59.452Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.40350v1",
+    "url": "https://arxiv.org/abs/2609.40350v1",
+    "headline": "On The Simplest Quantum-Secure Block Cipher",
+    "description": "Pseudorandom permutations are ubiquitous in theoretical and applied cryptography. PRPs that offer security even against adversaries making quantum queries are of increasing interest, and used in applications ranging from constructing pseudorandom unitaries to separating SZK from BQP.\n  A successful ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-01T12:01:59.452Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.40346v1",
+    "url": "https://arxiv.org/abs/2609.40346v1",
+    "headline": "Resonances control when multiterminal Josephson currents reduce to two-terminal couplings",
+    "description": "Multiterminal Josephson junctions, in which one weak link couples three or more superconductors, are studied as hosts of topological Andreev bands, multi-pair supercurrents and tunable circuit elements. Their currents are modeled both as pairwise networks of two-terminal couplings and through genuin...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-01T12:01:59.452Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.40344v1",
+    "url": "https://arxiv.org/abs/2609.40344v1",
+    "headline": "A Fast Nonuniform Solver for the Poisson Equation over a Disk",
+    "description": "We study fast numerical methods for the Poisson equation on a disk within the FFTRR (Fast Fourier Transform Radial Recurrence) framework, which is built on Green's function representations. Classical FFTRR schemes apply FFTs in the azimuthal variable and evaluate mode-by-mode radial recurrences, ach...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-01T12:01:59.452Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.40342v1",
+    "url": "https://arxiv.org/abs/2609.40342v1",
+    "headline": "Learning Global Sensitivity Indices from Observational Data: A Metamodel-Based Approach",
+    "description": "Classical variance-based Global Sensitivity Analysis (GSA) assumes that the input--output mechanism can be repeatedly evaluated under a designed sampling scheme, which is infeasible when only a given sample of observations is available. We propose MM--GSA, a metamodel-based approach to GSA from obse...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-01T12:01:59.452Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
