@@ -6822,5 +6822,77 @@
     "date_found": "2026-10-02T11:33:23.545Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.01002v1",
+    "url": "https://arxiv.org/abs/2610.01002v1",
+    "headline": "What Can Analogy Tell Us About Artificial Consciousness?",
+    "description": "Who or what is conscious? Because subjective experience is directly accessible only in the first person, judgments about consciousness in other entities depend partly on analogy. Historically, such inferences have focused on nonhuman animals, but advances in artificial intelligence have raised the p...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-03T10:47:45.417Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.39289v1",
+    "url": "https://arxiv.org/abs/2609.39289v1",
+    "headline": "Present After Presence: Subtraction, Givenness, and the Structure of Being-There",
+    "description": "Presence research has often proceeded by addition, treating immersion, embodiment, agency, ownership, co-presence, reciprocity, and temporal simultaneity as conditions that stabilise the sense of being there. Yet immersive video suggests that several of these conditions can be weakened without elimi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-03T10:47:45.417Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.38495v1",
+    "url": "https://arxiv.org/abs/2609.38495v1",
+    "headline": "Does Global Neuronal Workspace Theory Explain Phenomenal Consciousness? The Motivated Emotional Mind Challenge",
+    "description": "Global Neuronal Workspace Theory (GNWT) is one of the most extensively developed empirical research programmes on access consciousness. By contrast, the Motivated Emotional Mind (MEM) model proposes an embodied, semi-hierarchical associative memory in which representational selection, action, recurr...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-03T10:47:45.417Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2609.35618v2",
+    "url": "https://arxiv.org/abs/2609.35618v2",
+    "headline": "From cacophony to hierarchy: a principled framework for assessing AI consciousness",
+    "description": "The question of AI consciousness is one of the most urgent pre-emptive problems in philosophy and computer science, yet progress is hampered by a cacophony of competing theories that often talk past each other. Separating the hard problem from the mapping problem allows the deepest metaphysical disa...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-03T10:47:45.417Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
