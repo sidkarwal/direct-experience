@@ -6894,5 +6894,77 @@
     "date_found": "2026-10-03T10:47:45.417Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.02209v1",
+    "url": "https://arxiv.org/abs/2610.02209v1",
+    "headline": "Leading gravitational dressing of operators and states in de Sitter space",
+    "description": "We describe construction of gravitationally dressed observables in de Sitter (dS) space, to leading non-trivial order in Newton's constant. We show that for an underlying field theory observable to be \"gravitationally dressable,\" it must be dS invariant. If it satisfies this condition, its gravitati...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-04T11:29:36.706Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.02205v1",
+    "url": "https://arxiv.org/abs/2610.02205v1",
+    "headline": "ROWBench: Do Video Models Render What the Program Specifies?",
+    "description": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual quality, controllabi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-04T11:29:36.706Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.02204v1",
+    "url": "https://arxiv.org/abs/2610.02204v1",
+    "headline": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+    "description": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems withou...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-04T11:29:36.707Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.02199v1",
+    "url": "https://arxiv.org/abs/2610.02199v1",
+    "headline": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+    "description": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, abandon first-order gradients, or change the update geometry while retaining dense sta...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-04T11:29:36.707Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
