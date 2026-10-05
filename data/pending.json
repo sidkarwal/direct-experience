@@ -6966,5 +6966,93 @@
     "date_found": "2026-10-04T11:29:36.707Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.03709v1",
+    "url": "https://arxiv.org/abs/2610.03709v1",
+    "headline": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+    "description": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, whether based on gossip or on routing over spanning trees, typically\n  use the ne...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-05T12:58:57.341Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.03708v1",
+    "url": "https://arxiv.org/abs/2610.03708v1",
+    "headline": "Quantum Love and ringdown near extremality",
+    "description": "In this paper we discuss the quasinormal modes and the tidal responses of a four-dimensional asymptotically flat Reissner-Nördstrom black hole near extremality and investigate the nontrivial near-horizon quantum corrections of these observables. The near-horizon dynamics of near extremal black holes...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-05T12:58:57.341Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.03692v1",
+    "url": "https://arxiv.org/abs/2610.03692v1",
+    "headline": "Higgsino dark matter compatible with the LUX-ZEPLIN high-energy nuclear-recoil event and IceCube constraints",
+    "description": "We examine Higgsino dark matter (DM) as a potential explanation of the $248~\\mathrm{keV}$ nuclear-recoil event of interest reported by the LUX-ZEPLIN (LZ) experiment, taking into account IceCube constraints on DM annihilation in the Sun. In the nearly pure Higgsino limit, two neutral Majorana states...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-05T12:58:57.341Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.03691v1",
+    "url": "https://arxiv.org/abs/2610.03691v1",
+    "headline": "FlowHMR: Physically Plausible Motion Capture from Video",
+    "description": "We present FlowHMR, a framework for recovering physically plausible global 3D human motion from monocular video. Previous learning-based methods typically regress human motion directly from video and train the network with geometric supervision. However, recovering human motion from monocular video ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-05T12:58:57.342Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.03689v1",
+    "url": "https://arxiv.org/abs/2610.03689v1",
+    "headline": "SigLIP2 for aerial fire risk classification",
+    "description": "We examine the transfer of a pretrained SigLIP2 image encoder to seven class fire risk classification from aerial imagery. We introduce a reproducible partition of the public FireRisk training mirror and an implementation that records data provenance, preprocessing and model selection. Two initial r...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-05T12:58:57.342Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
