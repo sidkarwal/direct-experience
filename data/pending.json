@@ -7144,5 +7144,23 @@
     "date_found": "2026-10-06T12:24:00.241Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.04057v1",
+    "url": "https://arxiv.org/abs/2610.04057v1",
+    "headline": "MEM as an Extension of Recurrent Processing Theory: Toward a Motivational Account of Consciousness",
+    "description": "Victor Lamme's Recurrent Processing Theory (RPT) proposes that the feedforward sweep (FFS) can extract and categorize visual features unconsciously, while conscious vision emerges through recurrent processing and feedback interactions across representational levels. The Motivated Emotional Mind (MEM...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-07T12:16:43.829Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
