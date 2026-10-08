@@ -7162,5 +7162,94 @@
     "date_found": "2026-10-07T12:16:43.829Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.10539v1",
+    "url": "https://arxiv.org/abs/2610.10539v1",
+    "headline": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+    "description": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate objects independently or couple them implicitly, providing limited guidance for ensuring fine-grained...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-08T12:26:41.157Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.10523v1",
+    "url": "https://arxiv.org/abs/2610.10523v1",
+    "headline": "Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism",
+    "description": "In this work we study phenomenological Landau theories of non-relativistic magnetic systems, generalizing work on the collinear case to coplanar and non-coplanar orders. Focusing on zero-wavevector ($\\boldsymbol{k}=0$) magnetic orders described by a single irreducible representation of the crystallo...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-08T12:26:41.157Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.10522v1",
+    "url": "https://arxiv.org/abs/2610.10522v1",
+    "headline": "Widespread steep X-ray spectra of luminous $z\\simeq5.85-7.5$ quasars and their implications for future X-ray surveys",
+    "description": "Luminous quasars (QSOs) at the Epoch of Reionization (EoR, $z\\gtrsim6$) host billion-solar-mass black holes assembled within the first Gyr of cosmic time. Their X-ray emission probes the innermost accreting regions and constrains the physical state of the corona during early supermassive black hole ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-08T12:26:41.157Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.10521v1",
+    "url": "https://arxiv.org/abs/2610.10521v1",
+    "headline": "Trend formation with sparse global sampling",
+    "description": "Achieving global coordination without a central controller or dense global communication is a defining challenge for both biological collectives and engineered swarms. We introduce and analyze a minimal model in which self-propelled agents in a bounded domain periodically reorient their motions towa...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-08T12:26:41.157Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.10515v1",
+    "url": "https://arxiv.org/abs/2610.10515v1",
+    "headline": "RoboJEPA: Scaling Robotic Latent World Models",
+    "description": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we pr...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-08T12:26:41.157Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
