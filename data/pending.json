@@ -7251,5 +7251,94 @@
     "date_found": "2026-10-08T12:26:41.157Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.12465v1",
+    "url": "https://arxiv.org/abs/2610.12465v1",
+    "headline": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+    "description": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards a...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-09T12:15:49.686Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.12451v1",
+    "url": "https://arxiv.org/abs/2610.12451v1",
+    "headline": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
+    "description": "Vision-Language-Action (VLA) models have emerged as powerful foundations for robotic manipulation, but their reliance on fixed camera configurations during training makes them brittle to changes in camera count or pose during deployment. To overcome these limitations, we propose VersaCamVLA, a camer...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-09T12:15:49.686Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.12450v1",
+    "url": "https://arxiv.org/abs/2610.12450v1",
+    "headline": "Discovery of Hidden Extragalactic Pulsars in the Parkes Archival Data",
+    "description": "Just over 1% of the known radio pulsar population resides in the Large and Small Magellanic Clouds (MCs), the satellite galaxies that are 50-62 kpc distant from the Milky Way. These pulsars are important for constraining the peak of the pulsar luminosity function, and may give insights into neutron ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-09T12:15:49.687Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.12444v1",
+    "url": "https://arxiv.org/abs/2610.12444v1",
+    "headline": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+    "description": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for AdamW from the perspective of \\emph{rounding space}: the coordinate in which a ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-09T12:15:49.687Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.12443v1",
+    "url": "https://arxiv.org/abs/2610.12443v1",
+    "headline": "A scalar-extended ${\\rm U(1)_{L_μ-L_τ}}$ explanation of the LUX-ZEPLIN 248 keV excess",
+    "description": "The recently observed dark matter (DM) nuclear recoil event at an energy of $248 \\pm 23\\,(\\text{stat.}) \\pm 23\\,(\\text{syst.})\\,\\text{keV}$ at the LUX-ZEPLIN (LZ) experiment, favoring an inelastic scattering interpretation, has motivated various beyond the Standard Model (BSM) scenarios aimed at exp...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "spontaneous",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-09T12:15:49.687Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
