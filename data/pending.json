@@ -7340,5 +7340,23 @@
     "date_found": "2026-10-09T12:15:49.687Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.12427v1",
+    "url": "https://arxiv.org/abs/2610.12427v1",
+    "headline": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
+    "description": "Streaming Video Large Language Models (VLMs) enable continuous video understanding, yet existing benchmarks focus on low-dynamic scenarios. Under bounded context budgets, models must balance temporal history, spatial resolution, and temporal granularity; sparse sampling at 1--2 FPS misses fast event...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-10T11:33:28.831Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
