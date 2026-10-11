@@ -7358,5 +7358,40 @@
     "date_found": "2026-10-10T11:33:28.831Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.10654v1",
+    "url": "https://arxiv.org/abs/2610.10654v1",
+    "headline": "Some Twitch chats exhibit multifractal characteristics resembling stream-of-consciousness narrative",
+    "description": "Live-streaming platforms generate high-frequency records of collective human activity in which many loosely coordinated users react in real time to shared external stimuli and to one another. We investigate whether the temporal organization of Twitch chat messages exhibits multifractal signatures ch...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-11T11:47:05.603Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.08878v1",
+    "url": "https://arxiv.org/abs/2610.08878v1",
+    "headline": "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
+    "description": "This article develops a failure-mode framework for analyzing how advanced artificial intelligence could contribute to human extinction, irreversible civilizational collapse, or permanent human disempowerment. The central thesis is that catastrophic AI risk does not require consciousness, hostility, ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-11T11:47:05.603Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
