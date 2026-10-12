@@ -7393,5 +7393,95 @@
     "date_found": "2026-10-11T11:47:05.603Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.13944v1",
+    "url": "https://arxiv.org/abs/2610.13944v1",
+    "headline": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+    "description": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasingly heterogeneous architectures and representations. Despite their remarkable generation capabilities, the cross-model alignment of latent representat...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type",
+      "cross-tradition"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-12T13:51:14.038Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.13940v1",
+    "url": "https://arxiv.org/abs/2610.13940v1",
+    "headline": "Sandpile avalanches in two dimensions are finite",
+    "description": "In the abelian sandpile model on $\\mathbb{Z}^d$, a site with at least $2d$ grains topples by sending one grain to each neighbor. In a box $[-L,L]^d$ whose boundary absorbs grains, adding grains at random sites and toppling defines a Markov chain, and Athreya and Járai (2004) constructed the stationa...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-12T13:51:14.038Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.13936v1",
+    "url": "https://arxiv.org/abs/2610.13936v1",
+    "headline": "A Warped Born Rule Turns an Observer into a Maxwell's Demon",
+    "description": "Quantum mechanics seems to be an incredibly delicate theory. Slight alterations to nearly any part of its structure can lead to huge qualitative differences and wildly unphysical predictions. Here, we explore the many-body consequences of replacing the Born rule $p(m)\\propto\\|P_m|ψ\\rangle|^2$ by a w...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-12T13:51:14.039Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.13934v1",
+    "url": "https://arxiv.org/abs/2610.13934v1",
+    "headline": "A Riesz-Map Preconditioned Extragradient Method for Price Formation in Mean Field Games",
+    "description": "We develop and analyze a projected extragradient method, preconditioned by a Riesz map, for a first-order price-formation mean field game in one space dimension. The model couples Hamilton--Jacobi--Bellman and transport equations through a global market-clearing constraint. Finite propagation justif...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-12T13:51:14.039Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.13930v1",
+    "url": "https://arxiv.org/abs/2610.13930v1",
+    "headline": "The LZ inelastic splitting as a probe of anomaly mediation",
+    "description": "The LZ 248 keV recoil candidate admits an interpretation in terms of pseudo-Dirac dark matter with a mixing-suppressed inelastic $Z$ interaction. In the MSSM, the Higgsino limit conflicts with the adopted solar-neutrino bound, while a gaugino realization requires an unprotected mass degeneracy. We r...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-12T13:51:14.039Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
