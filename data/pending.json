@@ -7572,5 +7572,96 @@
     "date_found": "2026-10-13T13:08:56.302Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.18873v1",
+    "url": "https://arxiv.org/abs/2610.18873v1",
+    "headline": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
+    "description": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every recorded action can reinforce poor behavior, while filtering out failures discards evidence of physical ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-14T10:49:37.434Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.18869v1",
+    "url": "https://arxiv.org/abs/2610.18869v1",
+    "headline": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+    "description": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-14T10:49:37.434Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.18867v1",
+    "url": "https://arxiv.org/abs/2610.18867v1",
+    "headline": "EmbodiedEvo: Self-improving Coding Agents for Physical Intelligence",
+    "description": "Bringing general-purpose agents into the physical world calls for an executable representation of physical intelligence. Compared with vision-language-action (VLA) models, which map observations and language instructions directly to actions, code makes control logic explicit and reusable. Code can s...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "dark-night",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-14T10:49:37.435Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.18865v1",
+    "url": "https://arxiv.org/abs/2610.18865v1",
+    "headline": "PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning",
+    "description": "Generating editable graphic designs requires arranging visual and textual elements into a coherent composition while preserving their content and editability. Although recent MLLM-based approaches employ iterative generation and visual refinement to reflect the real-world design workflows, their hig...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-14T10:49:37.435Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.18856v1",
+    "url": "https://arxiv.org/abs/2610.18856v1",
+    "headline": "Exact Topological Compliance: Generating Persistence-Equivalent Graphs",
+    "description": "Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). Generating graphs whose topology matches a target descriptor is increasingly important, yet existing topology-aware generative models rely on soft regularization, producing graphs whose PDs may only be...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-14T10:49:37.435Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
