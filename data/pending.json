@@ -7663,5 +7663,94 @@
     "date_found": "2026-10-14T10:49:37.435Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.22371v1",
+    "url": "https://arxiv.org/abs/2610.22371v1",
+    "headline": "Gen4P: Video Generators are 4D Perceivers",
+    "description": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising. Building on on-demand querying, Gen4P processes clean video latents in a singl...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "cross-tradition"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-16T10:19:23.561Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.22367v1",
+    "url": "https://arxiv.org/abs/2610.22367v1",
+    "headline": "Discovering state-of-the-art quantum circuits with large language models",
+    "description": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-16T10:19:23.561Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.22365v1",
+    "url": "https://arxiv.org/abs/2610.22365v1",
+    "headline": "$^6$He structure from semiclassical 3D models based on $\\textit{ab initio}$ spatial correlations",
+    "description": "We construct semiclassical 3D models based on $\\textit{ab initio}$ no-core shell model calculated two-body spatial correlations, which represent the preferred spatial configuration of nucleons for the ground state of $^6$He. We demonstrate that the presence of the two valence neutrons distorts and f...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-16T10:19:23.561Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.22361v1",
+    "url": "https://arxiv.org/abs/2610.22361v1",
+    "headline": "Band-Resolved Superconducting Gaps via the Thermal Hall Effect in CeRu2",
+    "description": "Standard bulk probes of multiband superconductors cannot assign pairing gaps to specific electron or hole Fermi surfaces. Here we show that thermal Hall transport ($κ_{xy}$), constrained by specific heat and normal-state magnetotransport, resolves this ambiguity in the compensated heavy-fermion supe...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-16T10:19:23.561Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.22357v1",
+    "url": "https://arxiv.org/abs/2610.22357v1",
+    "headline": "Stability of Quantum LDPC States under Local Pauli Noise",
+    "description": "Quantum low-density parity-check (qLDPC) codes have a canonical mixed state---the normalized projector onto the code space---that lies at the intersection of quantum error correction and quantum many-body physics, yet the stability of its information-theoretic structure under local noise remains poo...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-16T10:19:23.561Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
