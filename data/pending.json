@@ -7752,5 +7752,78 @@
     "date_found": "2026-10-16T10:19:23.561Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.22372v1",
+    "url": "https://arxiv.org/abs/2610.22372v1",
+    "headline": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+    "description": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-17T09:52:38.530Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.22370v1",
+    "url": "https://arxiv.org/abs/2610.22370v1",
+    "headline": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+    "description": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computatio...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-17T09:52:38.530Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.22369v1",
+    "url": "https://arxiv.org/abs/2610.22369v1",
+    "headline": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
+    "description": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing activations from recent evaluations instead of recomputing them. Dynamic caching methods decide when ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-17T09:52:38.530Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.22368v1",
+    "url": "https://arxiv.org/abs/2610.22368v1",
+    "headline": "Value as Memory: Online Value-Guided Post-training for General Robot Policies",
+    "description": "Real-world post-training of generalist robot policies faces two challenges: partial observability makes action selection ambiguous, while offline post-training methods delay feedback from deployment experience. We present Value as Memory (VaM), a framework that addresses these challenges through val...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-17T09:52:38.530Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
