@@ -7843,5 +7843,24 @@
     "date_found": "2026-10-18T10:04:30.078Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.20856v1",
+    "url": "https://arxiv.org/abs/2610.20856v1",
+    "headline": "Awakening as a Trait-Level Transformation of Consciousness",
+    "description": "Awakening is reported across contemplative traditions yet remains poorly defined in science, where it is often conflated with transient states induced by meditation or psychedelics, obscuring its significance for theories of consciousness and cognitive architecture. We treat awakening as a functiona...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "psychedelic",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-19T11:31:36.155Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
