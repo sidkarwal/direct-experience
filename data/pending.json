@@ -7862,5 +7862,94 @@
     "date_found": "2026-10-19T11:31:36.155Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.26859v1",
+    "url": "https://arxiv.org/abs/2610.26859v1",
+    "headline": "Boundary-Sensitive Quantum Order on Non-Amenable Lattices",
+    "description": "We show that quantum systems on non-amenable lattices, whose boundaries constitute an extensive fraction of the system, host novel forms of bulk ordering with no Euclidean counterpart. Combining boundary-retaining iDMRG with an exact symmetry-fixing duality, we investigate $p&lt;5$ state clock model...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type",
+      "spontaneous"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-20T10:36:58.249Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.26858v1",
+    "url": "https://arxiv.org/abs/2610.26858v1",
+    "headline": "Kondo Lattice model for field induced triplet pairing in CeRh$_2$As$_2$",
+    "description": "Spin triplet superconductors are of interest because of their topological properties, and their robustness to high magnetic fields. CeRh$_2$As$_2$ is a unique heavy fermion superconductor with both even-parity and candidate odd-parity superconducting phases with a special feature enabling a field in...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-20T10:36:58.249Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.26856v1",
+    "url": "https://arxiv.org/abs/2610.26856v1",
+    "headline": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+    "description": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teach...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-20T10:36:58.249Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.26855v1",
+    "url": "https://arxiv.org/abs/2610.26855v1",
+    "headline": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+    "description": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multimodal supervision. We present Ropedia W0, the first egocentric loco-manipulation ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-20T10:36:58.249Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.26854v1",
+    "url": "https://arxiv.org/abs/2610.26854v1",
+    "headline": "Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation",
+    "description": "Multimodal reasoning provides robotic foundation models with predictive context needed for reliable action generation. However, language-based reasoning captures task semantics but struggles to express fine-grained physical dynamics, while latent reasoning models future state evolution but offers li...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-20T10:36:58.249Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
