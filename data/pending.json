@@ -8043,5 +8043,94 @@
     "date_found": "2026-10-21T10:48:29.016Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.30131v1",
+    "url": "https://arxiv.org/abs/2610.30131v1",
+    "headline": "Scaling H2 Factorization to Billion-Unknown Three-Dimensional Problems",
+    "description": "Strong recursive skeletonization provides approximate direct solvers for dense matrices from integral equations and kernel methods, but distributed implementations face substantial communication costs and limited parallelism, especially in three dimensions. We present a distributed-memory $\\mathcal{...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-22T10:49:22.178Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.30128v1",
+    "url": "https://arxiv.org/abs/2610.30128v1",
+    "headline": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "description": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items withi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-22T10:49:22.178Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.30107v1",
+    "url": "https://arxiv.org/abs/2610.30107v1",
+    "headline": "Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching",
+    "description": "Flow matching trains a continuum of velocity regression problems but usually reports a loss averaged over interpolation time, obscuring which regions are limited by intrinsic ambiguity and which remain data-limited. We introduce the Velocity Ambiguity Profile (VAP), $\\mathcal{A}_v(t)$, the time-loca...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-22T10:49:22.178Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.30092v1",
+    "url": "https://arxiv.org/abs/2610.30092v1",
+    "headline": "Spatial Control of Compressible Active Fluids",
+    "description": "We study the response of compressible microtubule-based active fluids to sinusoidally varying activity patterns, using experiments and theory. Microtubules accumulate in low-activity regions and are depleted from high activity ones, with the density difference controlled by the wavelength of the act...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-22T10:49:22.178Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.30084v1",
+    "url": "https://arxiv.org/abs/2610.30084v1",
+    "headline": "Why the Swing Parameters Are Sloppy",
+    "description": "Evangelou, Stanković, Kevrekidis and Transtrum compared analytic and data-driven assessments of parameter identifiability for the infinite-bus synchronous generator. Fisher information with the manifold boundary approximation method (MBAM), and output diffusion maps with geometric harmonics, report ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-22T10:49:22.178Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
