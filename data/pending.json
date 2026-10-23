@@ -8132,5 +8132,41 @@
     "date_found": "2026-10-22T10:49:22.178Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.30217v1",
+    "url": "https://arxiv.org/abs/2610.30217v1",
+    "headline": "The medium is the message: How neurometabolic entanglement generates conscious experience",
+    "description": "Most neuroscientific accounts of consciousness assume that conscious experience is constituted by the information conveyed between neurons. The physical-chemical details of the metabolic and physiological processes that convey this information are correspondingly presumed to be relevant only insofar...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-23T10:41:23.217Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.25413v1",
+    "url": "https://arxiv.org/abs/2610.25413v1",
+    "headline": "Weakly Supervised Adaptation of Scientific Embeddings for Exploratory Literature Mapping",
+    "description": "Scientific document embeddings such as SPECTER2 are optimized for retrieval over large, heterogeneous corpora. On a small specialized corpus their similarity distributions can become highly compressed, which limits their usefulness for exploratory literature mapping. We study whether weakly supervis...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-23T10:41:23.217Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
