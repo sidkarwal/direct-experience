@@ -8508,5 +8508,75 @@
     "date_found": "2026-10-28T11:48:52.310Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.37658v1",
+    "url": "https://arxiv.org/abs/2610.37658v1",
+    "headline": "When Should We Intervene at Test Time?",
+    "description": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet fail when a batch contains mostly one class. Average accuracy hides these failu...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-29T11:56:46.396Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.37654v1",
+    "url": "https://arxiv.org/abs/2610.37654v1",
+    "headline": "Mediated Interactions between Fermi Polarons in the Strongly Interacting Regime",
+    "description": "Mediated interactions between quasiparticles lie at the heart of Landau Fermi-liquid theory, yet their behavior in the strongly correlated regime is not fully understood. Motivated by recent experiments [Nat. Phys. 20, 68--73 (2024)], we investigate mediated interactions between quasiparticles emerg...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-29T11:56:46.397Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.37651v1",
+    "url": "https://arxiv.org/abs/2610.37651v1",
+    "headline": "GEPA-Curator: Curated Learning for Self Improving Agents",
+    "description": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA learn from failed rollouts, but agentic failures can also come from prompt weaknesses, harness limitatio...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-29T11:56:46.397Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.37649v1",
+    "url": "https://arxiv.org/abs/2610.37649v1",
+    "headline": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+    "description": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavior, such as heavier objects falling more slowly, and discover the law through experiments without bei...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "spontaneous",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-29T11:56:46.397Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
