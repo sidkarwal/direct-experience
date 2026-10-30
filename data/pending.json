@@ -8578,5 +8578,95 @@
     "date_found": "2026-10-29T11:56:46.397Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.40632v1",
+    "url": "https://arxiv.org/abs/2610.40632v1",
+    "headline": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
+    "description": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations to predict future actions and remain difficult to interpret and adjust, symboli...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-30T11:50:53.666Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.40629v1",
+    "url": "https://arxiv.org/abs/2610.40629v1",
+    "headline": "A Lighter QCD-Axion from Small Instantons",
+    "description": "We propose models where the QCD axion mass can be much smaller than the standard expectation. We show that this is possible in models where both QCD and the Standard Model flavor structure get modified in the ultraviolet (UV). In these models, both the axion mass and the up-quark Yukawa can receive ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-30T11:50:53.666Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.40619v1",
+    "url": "https://arxiv.org/abs/2610.40619v1",
+    "headline": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
+    "description": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test behind it. Assertions about how events unfold across many cases fill the Web, and eac...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-30T11:50:53.666Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.40615v1",
+    "url": "https://arxiv.org/abs/2610.40615v1",
+    "headline": "On Geometric Observables in Gravity",
+    "description": "Measures of geometry like distance and time are staples of classical gravity. While geometric quantities arise broadly in quantum gravity, their graviton corrections are less explored. In this paper, we study geometric observables in perturbative quantum gravity. We form distance and time observable...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-30T11:50:53.666Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.40614v1",
+    "url": "https://arxiv.org/abs/2610.40614v1",
+    "headline": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+    "description": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either temporal context or explicit 3D memory, both of which scale poorly because memory grows...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-30T11:50:53.667Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
