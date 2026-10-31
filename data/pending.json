@@ -8668,5 +8668,23 @@
     "date_found": "2026-10-30T11:50:53.667Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.36962v1",
+    "url": "https://arxiv.org/abs/2610.36962v1",
+    "headline": "Do bots feel bad? Assessing empirical evidence for functional valence in LLMs",
+    "description": "Do LLMs have valenced states, i.e. states that feel pleasant or unpleasant? Recent empirical work has claimed to show that LLMs possess functional valenced states (e.g. ``functional pleasure and pain'' [Ren et al. 2026], ``functional emotions'' [Sofroniew et al. 2026], and ``functional welfare'' [Ha...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-10-31T11:24:09.387Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
