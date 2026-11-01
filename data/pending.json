@@ -8686,5 +8686,94 @@
     "date_found": "2026-10-31T11:24:09.387Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.40657v1",
+    "url": "https://arxiv.org/abs/2610.40657v1",
+    "headline": "Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal",
+    "description": "The ground state of an ideal gas of anyons with statistical angle $θ\\in(0,π)$ is a long-standing open problem, with renewed interest from the recent observations of fractional Chern insulators. In this work we construct variational wavefunctions that build in the exact anyon statistics and combine t...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-01T12:16:37.814Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.40655v1",
+    "url": "https://arxiv.org/abs/2610.40655v1",
+    "headline": "Elucidating the Design Space of LM Data Attribution",
+    "description": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-01T12:16:37.814Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.40652v1",
+    "url": "https://arxiv.org/abs/2610.40652v1",
+    "headline": "Reconstructing hidden observables via quantum snapshot thermometry",
+    "description": "Projective snapshots are a standard readout tool for quantum simulators, but they directly probe only observables that are diagonal in the measurement basis. We show how local equilibration and an independently calibrated equilibrium equation of state can reveal otherwise hidden conserved-density pr...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-01T12:16:37.814Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.40650v1",
+    "url": "https://arxiv.org/abs/2610.40650v1",
+    "headline": "When Does Storage Complement Solar? Investment and Cost Recovery under Advanced Net Metering",
+    "description": "We examine the joint PV and storage operational and investment decisions of a prosumer under net energy metering (NEM) and peak/off-peak tariffs. Legacy NEM compensates net exports at the retail rate over a netting period, typically under time-invariant pricing. To better reflect system costs, tarif...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-01T12:16:37.814Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.40647v1",
+    "url": "https://arxiv.org/abs/2610.40647v1",
+    "headline": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+    "description": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from gl...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-01T12:16:37.815Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
