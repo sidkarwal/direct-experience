@@ -8775,5 +8775,94 @@
     "date_found": "2026-11-01T12:16:37.815Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.42149v1",
+    "url": "https://arxiv.org/abs/2610.42149v1",
+    "headline": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+    "description": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inherit t...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-02T14:09:20.892Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.42145v1",
+    "url": "https://arxiv.org/abs/2610.42145v1",
+    "headline": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
+    "description": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulation due to the compactness and computational efficiency of the primitive-based representation. Prior...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-02T14:09:20.892Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.42141v1",
+    "url": "https://arxiv.org/abs/2610.42141v1",
+    "headline": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+    "description": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that h...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-02T14:09:20.892Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.42135v1",
+    "url": "https://arxiv.org/abs/2610.42135v1",
+    "headline": "A Better Critic Matters for Distribution Matching Distillation",
+    "description": "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate what the critic needs, in capacity and in information, to provide a reliable training signal. On the c...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-02T14:09:20.892Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2610.42117v1",
+    "url": "https://arxiv.org/abs/2610.42117v1",
+    "headline": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
+    "description": "In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. This scheme is known to improve on Poisson sampling in private optimization and in communication-efficient aggregation. The existing privacy loss distribution (P...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-02T14:09:20.892Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
