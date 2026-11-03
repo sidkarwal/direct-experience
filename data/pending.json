@@ -8864,5 +8864,95 @@
     "date_found": "2026-11-02T14:09:20.892Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.03646v1",
+    "url": "https://arxiv.org/abs/2611.03646v1",
+    "headline": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+    "description": "Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing benchmarks remain limited in action atomicity, temporal precision, and hand-action association. We ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-03T13:13:55.464Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.03638v1",
+    "url": "https://arxiv.org/abs/2611.03638v1",
+    "headline": "A Triangular Log-Det PDHG for Semidefinite Programming: Complementarity Selection and Global Linear Convergence",
+    "description": "Semidefinite programming (SDP) is an important class of convex optimization problems with wide applications in practice. In this paper, we study a solution-selection question for first-order methods for solving SDPs: Can a first-order method provably select a strictly complementary solution when one...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-03T13:13:55.464Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.03629v1",
+    "url": "https://arxiv.org/abs/2611.03629v1",
+    "headline": "PDFP: GPU-Accelerated Feasibility Pump via PDHG",
+    "description": "The feasibility pump (FP) is among the most widely used primal heuristics for mixed-integer linear programming. It alternates between rounding an LP-feasible point and projecting the rounded point back onto the feasible region of the LP relaxation. Recent pump-based heuristics compute the projection...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-03T13:13:55.464Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.03623v1",
+    "url": "https://arxiv.org/abs/2611.03623v1",
+    "headline": "Thought-deciphering via hierarchical EEG-to-text alignment",
+    "description": "Communication is important for our well-being, but it can be impaired by disabilities, such as locked-in syndrome (LIS), cerebral palsy (CP), and dysarthria. Non-invasive brain-to-text brain-computer interfaces (BCIs) offer a promising solution by providing an alternative communication pathway for p...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-03T13:13:55.464Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.03618v1",
+    "url": "https://arxiv.org/abs/2611.03618v1",
+    "headline": "Strategist: Evolving Reasoning with Agents",
+    "description": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of building one strategy never carries to the next. We introduce Strategist, a meta-agen...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-03T13:13:55.464Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
