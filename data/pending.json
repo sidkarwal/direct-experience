@@ -8954,5 +8954,61 @@
     "date_found": "2026-11-03T13:13:55.464Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.02934v1",
+    "url": "https://arxiv.org/abs/2611.02934v1",
+    "headline": "Revealing the dusty shell of the semi-regular variable V CVn",
+    "description": "The semi-regular variable (SRV) star V CVn exhibits a highly variable optical linear polarization, yet its position angle (PA) has remained remarkably stable at approximately 100 +/- 20 deg. over several decades. We present a comprehensive multi-technique study of the system covering six pulsation c...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-04T13:27:26.709Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.01548v1",
+    "url": "https://arxiv.org/abs/2611.01548v1",
+    "headline": "Band2Net: Frequency-to-Network Transport Distillation for fMRI-Privileged, EEG-Only Session-Condition Decoding",
+    "description": "Functional MRI resolves large-scale brain networks but is expensive and stationary, whereas EEG is portable but poorly localised. We treat fMRI as privileged information, available during training and absent at deployment, with EEG and fMRI acquired from the same participants under matched condition...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "psychedelic",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-04T13:27:26.709Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.00380v1",
+    "url": "https://arxiv.org/abs/2611.00380v1",
+    "headline": "Where Intention Goes, Responsibility Flows: Grounding AI Accountability in the Machine Learning Paradigm",
+    "description": "An opening salvo of lawsuits in U.S. courts has begun holding AI companies accountable through independent doctrinal routes: product liability and agency law cut as swords, while the shields of Section 230 immunity and First Amendment doctrine begin to crack. This Perspective points out that these c...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-04T13:27:26.709Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
