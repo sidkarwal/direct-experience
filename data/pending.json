@@ -9099,5 +9099,94 @@
     "date_found": "2026-11-05T13:41:29.136Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.08489v1",
+    "url": "https://arxiv.org/abs/2611.08489v1",
+    "headline": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
+    "description": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retrievals by adding the log-likelihoods of high- and low-resolution data computed from the same model at...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-06T13:25:49.734Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.08478v1",
+    "url": "https://arxiv.org/abs/2611.08478v1",
+    "headline": "Scientist World: Grow a Research World for AI-Scientists",
+    "description": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every resea...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-06T13:25:49.734Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.08469v1",
+    "url": "https://arxiv.org/abs/2611.08469v1",
+    "headline": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+    "description": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. W...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-06T13:25:49.735Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.08468v1",
+    "url": "https://arxiv.org/abs/2611.08468v1",
+    "headline": "An Accelerated Proximal Gradient Method for Bures-Wasserstein Space",
+    "description": "We study composite optimization over the Bures--Wasserstein (BW) space of Gaussian measures. Our main observation is that a useful class of BW problems can be lifted into the Euclidean space of affine transport maps, such that the lifted problems can be solved efficiently using accelerated proximal ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-06T13:25:49.735Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.08462v1",
+    "url": "https://arxiv.org/abs/2611.08462v1",
+    "headline": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
+    "description": "Vision-Language-Action (VLA) models can perform a wide range of robotic manipulation tasks, but often fail during deployment. Teaching them to recover from these failures requires substantial corrective data: existing approaches learn to recover from failures by directly associating corrective actio...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-06T13:25:49.735Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
