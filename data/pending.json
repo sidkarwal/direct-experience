@@ -9188,5 +9188,23 @@
     "date_found": "2026-11-06T13:25:49.735Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.08452v1",
+    "url": "https://arxiv.org/abs/2611.08452v1",
+    "headline": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+    "description": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifac...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-07T12:04:03.612Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
