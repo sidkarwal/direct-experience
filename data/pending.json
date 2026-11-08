@@ -9206,5 +9206,42 @@
     "date_found": "2026-11-07T12:04:03.612Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.06603v1",
+    "url": "https://arxiv.org/abs/2611.06603v1",
+    "headline": "Time-Division Multiplexing: The Operational Rhythm and Temporal Organization Layer of Digital Life",
+    "description": "Continual agents must handle urgent interaction while retaining alternatives, replaying errors, and committing safe long-term changes. A previous digital-life framework distinguishes online (busy) and offline (idle) channels, but leaves open whether these are separate programs or phases of a common ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-08T12:25:19.808Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.05741v1",
+    "url": "https://arxiv.org/abs/2611.05741v1",
+    "headline": "OUCH: Objective, Uniform, Controlled Haptic Stimulation for Automated Neurological Assessment",
+    "description": "Motor responses evoked by noxious stimulation are used to assess neurological function in hospitalized patients with disorders of consciousness. In standard bedside assessments, these stimuli are applied manually, resulting in substantial variation in force, duration, frequency, and location. Here, ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-08T12:25:19.809Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
