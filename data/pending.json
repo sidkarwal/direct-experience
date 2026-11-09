@@ -9243,5 +9243,92 @@
     "date_found": "2026-11-08T12:25:19.809Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.09893v1",
+    "url": "https://arxiv.org/abs/2611.09893v1",
+    "headline": "Challenges for minimal warm inflation in the Standard Model and beyond",
+    "description": "A minimal realisation of warm inflation, even within the Standard Model, assumes that the inflaton $φ$ couples via the effective operator $φ\\, G\\tilde G$. We show that the SM solutions are in tension with the plasma calculation (as each sphaleron transition releases an energy much larger than the te...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-09T14:39:51.954Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.09892v1",
+    "url": "https://arxiv.org/abs/2611.09892v1",
+    "headline": "On Agentic Manipulation Policies",
+    "description": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze age...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-09T14:39:51.954Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.09888v1",
+    "url": "https://arxiv.org/abs/2611.09888v1",
+    "headline": "Scenario Orchestration for Closed-loop Policy Evaluation of Autonomous Driving",
+    "description": "Scenario-based simulation is central to evaluating autonomous-driving policies, but a scenario scripted before execution (i.e., with predetermined, fixed actor routes and speeds) may not preserve its intended interaction once the tested ego policy responds in closed loop. Scripted scenarios cannot a...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-09T14:39:51.955Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.09882v1",
+    "url": "https://arxiv.org/abs/2611.09882v1",
+    "headline": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+    "description": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in multi-person 3D motion prediction remains deterministic, with existing methods p...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-09T14:39:51.955Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.09881v1",
+    "url": "https://arxiv.org/abs/2611.09881v1",
+    "headline": "Unraveling square and kagome lattice frustrated magnetism by scalable tensor networks",
+    "description": "We extend the scalability of variational infinite two-dimensional tensor network methods with application to investigate frustrated magnetism of the square-lattice $J_1$-$J_2$ model and kagome-lattice Heisenberg model. In the sign-problem-free limit of the square-lattice model, we achieve high groun...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-09T14:39:51.955Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
