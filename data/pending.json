@@ -9420,5 +9420,94 @@
     "date_found": "2026-11-10T13:56:37.507Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.14519v1",
+    "url": "https://arxiv.org/abs/2611.14519v1",
+    "headline": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+    "description": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whos...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-11T13:10:21.554Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.14516v1",
+    "url": "https://arxiv.org/abs/2611.14516v1",
+    "headline": "TorchCurves: Differentiable Parametric Curves",
+    "description": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Curv...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-11T13:10:21.554Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.14515v1",
+    "url": "https://arxiv.org/abs/2611.14515v1",
+    "headline": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+    "description": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "cross-tradition"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-11T13:10:21.554Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.14514v1",
+    "url": "https://arxiv.org/abs/2611.14514v1",
+    "headline": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+    "description": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternati...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-11T13:10:21.554Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.14504v1",
+    "url": "https://arxiv.org/abs/2611.14504v1",
+    "headline": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+    "description": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-lig...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-11T13:10:21.554Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
