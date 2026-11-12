@@ -9509,5 +9509,23 @@
     "date_found": "2026-11-11T13:10:21.554Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.12809v1",
+    "url": "https://arxiv.org/abs/2611.12809v1",
+    "headline": "Qualiaphobic artificial neural networks (and why to build them)",
+    "description": "This paper introduces qualiaphobic AI: artificial neural network architectures that are hostile to theories of consciousness. I show that qualiaphobia can be well-justified by knowledge about theories of consciousness, like when such theories are trivial or unfalsifiable or contradicted by overwhelm...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-12T14:13:36.960Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
