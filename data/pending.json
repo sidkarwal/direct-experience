@@ -9527,5 +9527,94 @@
     "date_found": "2026-11-12T14:13:36.960Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.17335v1",
+    "url": "https://arxiv.org/abs/2611.17335v1",
+    "headline": "Long-lived light-driven bimagnons at finite momentum in NiO",
+    "description": "Light can manipulate magnetic order and its excitations on ultrafast timescales, including through resonantly driven phonons. In antiferromagnets, light can also create correlated magnon pairs, or bimagnons. Unlike single magnons, whose damping has been measured and modeled in detail, little is know...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "jhana",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-13T13:36:57.744Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.17333v1",
+    "url": "https://arxiv.org/abs/2611.17333v1",
+    "headline": "Discrete Time Crystals from Anti-Unitary Floquet Driving and Dynamical Freezing",
+    "description": "We show anti-unitary periodic drive paves a direct path for stabilizing a Discrete Time-Crystal by Dynamical Freezing (DF). The magnetization appears as an emergent conserved operator, and an exact pairing of two-cycle quasi-energies pins the subharmonic response. DF keeps the effective Hamiltonian ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-13T13:36:57.744Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.17331v1",
+    "url": "https://arxiv.org/abs/2611.17331v1",
+    "headline": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+    "description": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (TTT) layers save computation but sacrifice quality. We propose Test-Time Baking ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-13T13:36:57.744Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.17328v1",
+    "url": "https://arxiv.org/abs/2611.17328v1",
+    "headline": "A Dark-Sector Mass Flip-Flop Mechanism for the ANITA-IV Events",
+    "description": "ANITA-IV has observed four upward-going air-shower candidates just below the horizon, consistent with ultra-high-energy $ν_τ$, yet IceCube, despite its much larger exposure, has detected no neutrino events at such energies. We propose a dark-sector mass flip-flop mechanism that reconciles these obse...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-13T13:36:57.744Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.17325v1",
+    "url": "https://arxiv.org/abs/2611.17325v1",
+    "headline": "Bound States of Two D0-Branes and the Three-Graviton Coupling",
+    "description": "We numerically solve for the ground state of the $SU(2)$ BFSS matrix model for M-theory. This state corresponds to the zero-energy bound state of two D0-branes or, by the BFSS conjecture, to the eleven-dimensional graviton with two units of momentum along the M-theory circle. The wavefunction exhibi...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-13T13:36:57.744Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
