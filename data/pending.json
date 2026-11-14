@@ -9616,5 +9616,95 @@
     "date_found": "2026-11-13T13:36:57.744Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.17332v1",
+    "url": "https://arxiv.org/abs/2611.17332v1",
+    "headline": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+    "description": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-14T12:41:22.974Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.17330v1",
+    "url": "https://arxiv.org/abs/2611.17330v1",
+    "headline": "ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation",
+    "description": "Vision language navigation (VLN) is very challenging for Unmanned Aerial Vehicles (UAVs) since small errors in 3D motion prediction can lead to navigation errors and collisions. Unable to fathom execution outcomes in 3D environments, existing methods often struggle to predict accurate navigation way...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-14T12:41:22.974Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.17326v1",
+    "url": "https://arxiv.org/abs/2611.17326v1",
+    "headline": "A hyperbolic area proof of the Kahn-Lyubich Covering Lemma and its generalization",
+    "description": "The Covering Lemma of J. Kahn and M. Lyubich is a fundamental analytic tool for controlling conformal moduli of annuli under branched coverings of finite degree. In the last several decades, it has played a crucial role in establishing rigidity of multicritical polynomial and rational maps. The clas...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-14T12:41:22.974Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.17314v1",
+    "url": "https://arxiv.org/abs/2611.17314v1",
+    "headline": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+    "description": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly. We study neural networks that have been optimized via meta-learning, a technique that exposes...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-14T12:41:22.974Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.17305v1",
+    "url": "https://arxiv.org/abs/2611.17305v1",
+    "headline": "Euclid data release 1 (DR1) - SIR spectroscopic calibration",
+    "description": "The Euclid space mission is dedicated to probing the nature of dark energy and dark matter, through a comprehensive mapping of the Universe's large-scale structure. Central to these cosmological goals are the spectra produced by the Near-Infrared Spectrometer and Photometer (NISP) and reduced by the...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-14T12:41:22.974Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
