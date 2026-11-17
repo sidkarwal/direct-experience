@@ -9742,5 +9742,92 @@
     "date_found": "2026-11-15T13:08:05.307Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.21610v1",
+    "url": "https://arxiv.org/abs/2611.21610v1",
+    "headline": "Hyperkagome antiferromagnetism in the iron garnet Almandine Fe$_3$Al$_2$Si$_3$O$_{12}$",
+    "description": "Antiferromagnets on the hyperkagome lattice provide a three-dimensional route to strong magnetic frustration, but experimentally accessible realizations with well-established microscopic Hamiltonians remain scarce. Garnets are a broad family of materials in which magnetic ions can form two interpene...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-17T15:08:15.574Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.21609v1",
+    "url": "https://arxiv.org/abs/2611.21609v1",
+    "headline": "Double quantum dots as dynamical impurities in one-dimensional transport",
+    "description": "We study single-electron scattering in a tight-binding chain capacitively coupled to double quantum dots, which act as dynamical two-level-system impurities with electrically tunable level splittings. For a single impurity, we solve the scattering problem exactly and show Feshbach-like perfect elast...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-17T15:08:15.574Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.21608v1",
+    "url": "https://arxiv.org/abs/2611.21608v1",
+    "headline": "Latent Lattice Language Models",
+    "description": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We i...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-17T15:08:15.574Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.21606v1",
+    "url": "https://arxiv.org/abs/2611.21606v1",
+    "headline": "The Shape of the Strongly Coupled MQM Ground State",
+    "description": "We study a surprisingly efficient family of variational ansatze for the ground state of bosonic matrix quantum mechanics at large $N$. These are ansatze whose norm-squared probability distributions are themselves matrix integrals with single-trace actions, and so have their own independent `t Hooft ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-17T15:08:15.574Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.21603v1",
+    "url": "https://arxiv.org/abs/2611.21603v1",
+    "headline": "A separation criterion for chiral systems and its application to Plebański--Demiański perturbations",
+    "description": "We give a constructive criterion for local separation of first-order chiral systems coupling two complex doublets. It combines a Gram decomposition of the coupling sources with separate coordinate dependence and a differential transport test. For recoverable, nondegenerate source families, the crite...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-17T15:08:15.575Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
