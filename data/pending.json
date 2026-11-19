@@ -9829,5 +9829,96 @@
     "date_found": "2026-11-17T15:08:15.575Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.24941v1",
+    "url": "https://arxiv.org/abs/2611.24941v1",
+    "headline": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+    "description": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, and illumination. While current generative methods produce realistic albedo maps, they still struggle...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-19T14:53:19.187Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.24939v1",
+    "url": "https://arxiv.org/abs/2611.24939v1",
+    "headline": "Map-Level Inference of Primordial Gravitational Waves from the CMB with Spherical Neural Networks",
+    "description": "We train a spherical graph convolutional network to infer the tensor-to-scalar ratio $r$ directly from multifrequency cosmic microwave background (CMB) $B$-mode maps on the cut sky. We test the network on simulations of a generic ground-based experiment including lensed CMB, inhomogeneous noise, and...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-19T14:53:19.187Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.24926v1",
+    "url": "https://arxiv.org/abs/2611.24926v1",
+    "headline": "Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation",
+    "description": "Robot reward modeling faces two challenges: generalizing across tasks and accurately tracking progress in long-horizon manipulation. General-purpose reward models demonstrate broad task transfer, but transfer from short-task pretraining to long-horizon tasks remains underexplored. Long-horizon progr...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-19T14:53:19.187Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.24915v1",
+    "url": "https://arxiv.org/abs/2611.24915v1",
+    "headline": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+    "description": "Agentic image restoration composes operations to handle mixed degradations, yet its toolbox often requires storing multiple restoration networks. We propose PrismRestore, which constructs a compact bank of callable restoration actions from a single frozen all-in-one model. Our approach builds on tas...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "cross-tradition",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-19T14:53:19.187Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.24914v1",
+    "url": "https://arxiv.org/abs/2611.24914v1",
+    "headline": "The role of externally-driven density fluctuations in the enhancement of beam spray",
+    "description": "Speckled laser beams, commonly used to ionize and heat plasma for inertial confinement fusion and high-energy-density experiments, are shown to drive long-wavelength plasma-density fluctuations that induce beam spray in other laser beams. Experiments show that a 1053 nm beam undergoes increased beam...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-19T14:53:19.187Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
