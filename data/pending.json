@@ -9920,5 +9920,40 @@
     "date_found": "2026-11-19T14:53:19.187Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.26018v1",
+    "url": "https://arxiv.org/abs/2611.26018v1",
+    "headline": "Does the Workspace Do the Work? A Causal Protocol for Verifying Global-Workspace Computation in a Language Model",
+    "description": "Global Workspace Theory (GWT), a leading theory of consciousness, holds that information becomes conscious when it is broadcast to specialized processes that use it. Building a workspace into a network does not reveal what the trained network computes with it: a module that reports an answer may hav...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-20T14:34:24.277Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.20826v1",
+    "url": "https://arxiv.org/abs/2611.20826v1",
+    "headline": "Conversing with a Conversational Agent: A Real Conversation, Not a Simulated One",
+    "description": "The claim that interactions with artificial conversational agents merely simulate human conversation rests on a philosophical distinction between reproducing the observable features of an activity and actually performing it. Although this distinction is appropriate for certain physical phenomena, it...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-20T14:34:24.277Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
