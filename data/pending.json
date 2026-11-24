@@ -10203,5 +10203,23 @@
     "date_found": "2026-11-23T16:48:17.350Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.27031v1",
+    "url": "https://arxiv.org/abs/2611.27031v1",
+    "headline": "Precise Radii of Visual Binaries with Dynamical Masses: $ξ$ Bootis $\\&amp;$ 70 Ophiuchi",
+    "description": "A new orbital solution for $ξ$ Bootis (GJ 566 AB, P=152 yrs) and the recently revised orbital solution for 70 Ophiuchi (GJ 702 AB, P=88 yrs) yield component masses precise to 0.4\\%. Their relatively wide separations ($&gt;0.4^{\\prime\\prime}$) allow the components to be studied independently, making ...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-24T16:41:26.938Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
