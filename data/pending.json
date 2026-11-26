@@ -10309,5 +10309,97 @@
     "date_found": "2026-11-25T16:25:45.554Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.34944v1",
+    "url": "https://arxiv.org/abs/2611.34944v1",
+    "headline": "AnyCam: Anything Can Represent Camera for Video Generation",
+    "description": "Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way to change the viewpoint of an object-centric scene, remains difficult. Existing methods condition either on camera parameters, which are scale-ambiguou...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-26T15:59:38.260Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.34941v1",
+    "url": "https://arxiv.org/abs/2611.34941v1",
+    "headline": "Improving and Expanding Video Editing Capabilities Without Videos",
+    "description": "Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible to transfer advanced image editing capabilities to video editors without new paired videos? We intr...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-26T15:59:38.261Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.34940v1",
+    "url": "https://arxiv.org/abs/2611.34940v1",
+    "headline": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
+    "description": "We present LuxAvatar, a feed-forward framework for real-time head avatar animation and relighting from a single portrait. To achieve both 3D controllability and complex facial light transport, we factorize avatar synthesis into an animatable 3D intrinsic Gaussian proxy and a causal autoregressive ne...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-26T15:59:38.261Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.34937v1",
+    "url": "https://arxiv.org/abs/2611.34937v1",
+    "headline": "A microscopic continuum model for moiré transition metal dichalcogenides",
+    "description": "Twisted transition metal dichalcogenides (tTMDs) have emerged as a fascinating platform for many-body phases --- displaying fractional Chern insulators and superconductivity as a function of doping. Here, we give a microscopic derivation of a continuum model which accurately describes their bandstru...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "research",
+      "nde-type"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-26T15:59:38.261Z",
+    "date_posted": null,
+    "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.34936v1",
+    "url": "https://arxiv.org/abs/2611.34936v1",
+    "headline": "DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses",
+    "description": "Synthesizing diverse dexterous manipulation policies is challenging: existing simulation-based approaches rely on human demonstrations which are difficult to scale, or use generic reward functions, which provide limited control over the hand-object interactions. We propose DexLink, which addresses t...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "dark-night",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-26T15:59:38.261Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
