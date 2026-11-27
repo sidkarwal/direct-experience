@@ -10401,5 +10401,23 @@
     "date_found": "2026-11-26T15:59:38.261Z",
     "date_posted": null,
     "seeded_by": "automation"
+  },
+  {
+    "id": "arxiv-2611.34929v1",
+    "url": "https://arxiv.org/abs/2611.34929v1",
+    "headline": "High-Fidelity Image Matting with Pixel-Space Diffusion Transformers",
+    "description": "Diffusion models have shown strong potential for image matting by transferring generative priors learned from large-scale pretraining. However, existing approaches largely rely on latent diffusion models, whose compressed representations and VAE-based reconstruction introduce a mismatch with the hig...",
+    "source": "research",
+    "domain": "arxiv.org",
+    "tags": [
+      "nde-type",
+      "research"
+    ],
+    "quality_score": 5,
+    "upstream_score": 0,
+    "status": "pending",
+    "date_found": "2026-11-27T15:48:11.658Z",
+    "date_posted": null,
+    "seeded_by": "automation"
   }
 ]
